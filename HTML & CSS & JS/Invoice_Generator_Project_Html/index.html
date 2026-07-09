@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invoice Generator - Premium Billing SaaS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- 1. FIXED TOP NAVIGATION BAR -->
+    <header class="navbar">
+        <div class="nav-container">
+            <!-- Left Side: Logo & Brand -->
+            <div class="nav-brand">
+                <div class="brand-logo"></div>
+                <span class="brand-name">Invoice Generator</span>
+            </div>
+
+            <!-- Mobile Menu Toggle Button -->
+            <button class="mobile-menu-toggle" aria-label="Toggle Navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+            <!-- Center & Right Navigation Menu -->
+            <!-- Center & Right Navigation Menu -->
+            <nav class="nav-menu">
+                <!-- Center Links -->
+                <div class="nav-links-center">
+                    <a href="#home" class="nav-item active">Home</a>
+                    <a href="#generator" class="nav-item">Invoice Generator</a>
+                    <a href="#logos" class="nav-item">Manage Your Logos</a>
+                    <a href="#history" class="nav-item">History</a>
+                </div>
+
+                <!-- Right Links & Actions -->
+                <div class="nav-links-right">
+                    <a href="#about" class="nav-item">About Us</a>
+                    <div class="auth-buttons">
+                        <a href="./auth.html" class="btn btn-secondary">Sign In</a>
+                        <a href="./auth.html" class="btn btn-primary">Sign Up</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- 2. HERO SECTION (FULL SCREEN) -->
+    <main class="hero-section" id="home">
+        <div class="hero-container">
+            
+            <!-- Left Side: Professional Illustration Container -->
+            <div class="hero-left animate-fade-in">
+                <div class="illustration-wrapper">
+                    <!-- Referencing image_cf0962.png verbatim as requested -->
+                    <img src="./Hero_Image.png" alt="Invoice Generation Illustration" class="hero-image">
+                    <div class="illustration-overlay-badge">
+                        <span>⚡ Premium Finance Tool</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Side: Content & Headline -->
+            <div class="hero-right animate-slide-up">
+                <span class="hero-subtitle">Smart Billing Software</span>
+                <h1 class="hero-heading">
+                    Create Professional <br>Invoices in Seconds
+                </h1>
+                <p class="hero-description">
+                    Easily create, manage, customize, and download beautiful invoices with our user-friendly interface. Designed tailored for freelancers, startups, and established enterprises.
+                </p>
+                <div class="hero-actions">
+                    <a href="#" class="btn btn-lg btn-primary">Sign Up Free</a>
+                    <a href="#" class="btn btn-lg btn-outline">Watch Demo</a>
+                </div>
+            </div>
+
+        </div>
+    </main>
+   <!-- 3. INVOICE GENERATOR PREVIEW & ANALYTICS SECTION -->
+    <section class="generator-preview-section" id="generator">
+        
+        <!-- NEW: Section Heading -->
+        <div class="section-header-compact animate-fade-in">
+            <h2 class="section-title">Invoice Generator Preview</h2>
+            <div class="title-underline"></div>
+        </div>
+
+        <div class="preview-container">
+            <!-- LEFT COLUMN: Invoice Generator Interface -->
+            <div class="invoice-interface animate-slide-up" style="animation-delay: 0.1s;">
+                <div class="invoice-card">
+                    
+                    <!-- Invoice Header -->
+                    <div class="invoice-header">
+                        <div class="company-details">
+                            <div class="logo-placeholder">
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+                            </div>
+                            <div class="company-text">
+                                <h3>Acme Corp Ltd.</h3>
+                                <p>hello@acmecorp.com</p>
+                            </div>
+                        </div>
+                        <div class="invoice-meta">
+                            <h2>INVOICE</h2>
+                            <div class="meta-grid">
+                                <span>Invoice No:</span> <strong>#INV-2026-089</strong>
+                                <span>Issue Date:</span> <strong>06 Jul 2026</strong>
+                                <span>Due Date:</span> <strong>20 Jul 2026</strong>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Billing Information -->
+                    <div class="billing-info">
+                        <div class="bill-to">
+                            <h4>Billed To</h4>
+                            <strong>Global Tech Solutions</strong>
+                            <p>145 Innovation Dr, Suite 400, San Francisco, CA</p>
+                        </div>
+                    </div>
+
+                    <!-- Invoice Items Table -->
+                    <div class="table-responsive">
+                        <table class="invoice-table">
+                            <thead>
+                                <tr>
+                                    <th>Item & Description</th>
+                                    <th>Qty</th>
+                                    <th>Unit Price</th>
+                                    <th>Discount</th>
+                                    <th>Tax (GST)</th>
+                                    <th>Amount</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <strong>Web Design</strong>
+                                        <span>Corporate website redesign</span>
+                                    </td>
+                                    <td>1</td>
+                                    <td>₹ 2,500.00</td>
+                                    <td>₹ 0.00</td>
+                                    <td>10%</td>
+                                    <td>₹ 2,750.00</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>Premium Hosting</strong>
+                                        <span>Annual cloud hosting</span>
+                                    </td>
+                                    <td>12</td>
+                                    <td>₹ 45.00</td>
+                                    <td>₹ 50.00</td>
+                                    <td>10%</td>
+                                    <td>₹ 539.00</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>UI/UX Consultation</strong>
+                                        <span>Wireframing & testing</span>
+                                    </td>
+                                    <td>10</td>
+                                    <td>₹ 85.00</td>
+                                    <td>₹ 100.00</td>
+                                    <td>10%</td>
+                                    <td>₹ 825.00</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <!-- Invoice Summary -->
+                    <div class="invoice-summary-wrapper">
+                        <div class="summary-notes">
+                            <h4>Terms & Conditions</h4>
+                            <p>Pay within 14 days. Late payments subject to a 1.5% fee.</p>
+                        </div>
+                        <div class="invoice-summary">
+                            <div class="summary-row"><span>Subtotal:</span> <strong>₹ 3,890.00</strong></div>
+                            <div class="summary-row"><span>Discount:</span> <strong>-₹ 150.00</strong></div>
+                            <div class="summary-row"><span>GST (10%):</span> <strong>₹ 394.00</strong></div>
+                            <div class="summary-row total-row"><span>Total Amount:</span> <strong>₹ 4,134.00</strong></div>
+                        </div>
+                    </div>
+
+                    <!-- Action Buttons -->
+                    <div class="invoice-actions">
+                        <div class="action-group-left">
+                            <button class="btn btn-outline btn-sm">+ Add</button>
+                            <button class="btn btn-secondary btn-sm">Clear</button>
+                        </div>
+                        <div class="action-group-right">
+                            <button class="btn btn-secondary btn-sm">Draft</button>
+                            <button class="btn btn-outline btn-sm">Preview</button>
+                            <button class="btn btn-primary btn-sm">Generate 🚀</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- RIGHT COLUMN: Analytics Panel -->
+            <div class="analytics-panel animate-slide-up" style="animation-delay: 0.3s;">
+                
+                <!-- Completion Chart -->
+                <div class="analytics-card text-center">
+                    <div class="donut-chart-wrapper">
+                        <div class="donut-chart">
+                            <div class="donut-inner">
+                                <span class="donut-value">82%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <h4 class="chart-label">Completion</h4>
+                </div>
+
+                <!-- Quick Stats Grid -->
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <span class="stat-icon bg-mint">📋</span>
+                        <div class="stat-details">
+                            <span class="stat-label">Items</span>
+                            <strong class="stat-value">3</strong>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-icon bg-blue">💰</span>
+                        <div class="stat-details">
+                            <span class="stat-label">Revenue</span>
+                            <strong class="stat-value">₹ 4.1k</strong>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Breakdown List -->
+                <div class="analytics-card">
+                    <h4 class="breakdown-title">Breakdown</h4>
+                    <ul class="breakdown-list">
+                        <li>
+                            <div class="breakdown-item-left"><span class="b-icon">📊</span> Total Tax</div>
+                            <strong>₹ 394.00</strong>
+                        </li>
+                        <li>
+                            <div class="breakdown-item-left"><span class="b-icon">⚙️</span> Platform Fee</div>
+                            <strong>₹ 15.00</strong>
+                        </li>
+                        <li>
+                            <div class="breakdown-item-left"><span class="b-icon">🏷️</span> Discounts</div>
+                            <strong class="text-accent">-₹ 150.00</strong>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Final Status Card -->
+                <div class="status-card">
+                    <div class="status-header">
+                        <span>Status</span>
+                        <span class="badge badge-pending">Pending</span>
+                    </div>
+                    <div class="balance-due">
+                        <span>Balance Due</span>
+                        <h2>₹ 4,134.00</h2>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- 4. MANAGE YOUR LOGOS SECTION -->
+    <section class="manage-logos-section" id="logos">
+        
+        <!-- Decorative Background Elements -->
+       
+
+        <div class="logos-container">
+            
+            <!-- LEFT COLUMN: Feature Content -->
+            <div class="logos-content animate-slide-up">
+                <div class="feature-badge">
+                    <span class="badge-icon">✨</span> Brand Identity Management
+                </div>
+                
+                <h2 class="section-title-left">Manage Your Brand Logos Effortlessly</h2>
+                
+                <p class="feature-description">
+                    Store all your company logos in one secure place and access them instantly while creating invoices. Switch between multiple business brands, organize your assets, and maintain consistent branding across every invoice with just one click.
+                </p>
+                <p class="feature-description-sub">
+                    Whether you run multiple startups, freelance under different monikers, or manage established enterprise branches, our intelligent logo library keeps your professional identity organized, secure, and ready to deploy.
+                </p>
+                
+                <ul class="feature-bullets">
+                    <li><span class="check-icon">✓</span> Unlimited Logo Storage</li>
+                    <li><span class="check-icon">✓</span> One-click Invoice Branding</li>
+                    <li><span class="check-icon">✓</span> Edit & Replace Logos</li>
+                    <li><span class="check-icon">✓</span> Cloud Sync</li>
+                    <li><span class="check-icon">✓</span> Multiple Business Profiles</li>
+                    <li><span class="check-icon">✓</span> Fast Access</li>
+                </ul>
+
+                <div class="feature-ctas">
+                    <button class="btn btn-primary btn-lg">Manage Logos</button>
+                    <button class="btn btn-secondary btn-lg">Learn More</button>
+                </div>
+            </div>
+
+           <!-- RIGHT COLUMN: Logo Management Dashboard -->
+            <div class="logos-dashboard animate-fade-in" style="animation-delay: 0.2s;">
+                
+                <!-- SINGLE UNIFIED DASHBOARD CARD -->
+                <div class="unified-dashboard-card">
+                    
+                    <!-- Top Statistics Row (Integrated without separate pill backgrounds) -->
+                    <div class="dashboard-stats-row">
+                        <div class="stat-item">
+                            <span class="stat-title">Total Logos</span>
+                            <strong class="stat-val">12</strong>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-title">Invoices Using Logos</span>
+                            <strong class="stat-val">148</strong>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-title">Most Used</span>
+                            <strong class="stat-val text-primary">TechNova</strong>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-title">Storage Used</span>
+                            <strong class="stat-val">24 / 500 MB</strong>
+                        </div>
+                    </div>
+
+                    <div class="dashboard-divider"></div>
+
+                    <!-- Dashboard Header -->
+                    <div class="ui-header">
+                        <div class="ui-header-left">
+                            <div class="ui-icon">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><polyline points="21 15 16 10 5 21"></polyline></svg>
+                            </div>
+                            <div>
+                                <h3>My Logo Library</h3>
+                                <span>12 Logos Stored</span>
+                            </div>
+                        </div>
+                        <button class="btn btn-outline btn-sm">↑ Upload Logo</button>
+                    </div>
+
+                    <!-- Logo Grid (2x3) -->
+                    <div class="logo-grid">
+                        
+                        <!-- Logo Card 1 -->
+                        <div class="logo-card">
+                            <div class="card-badge active-badge">Active</div>
+                            <div class="logo-visual bg-tech">
+                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+                            </div>
+                            <h4>TechNova</h4>
+                            <span class="logo-category">Software Dev</span>
+                            <div class="logo-actions">
+                                <button class="action-btn add-btn" title="Add to Invoice">🧾</button>
+                                <button class="action-btn edit-btn" title="Edit">✏️</button>
+                                <button class="action-btn delete-btn" title="Delete">🗑️</button>
+                            </div>
+                        </div>
+
+                        <!-- Logo Card 2 -->
+                        <div class="logo-card">
+                            <div class="logo-visual bg-wave">
+                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="M2 12h4l2-9 5 18 3-10h6"></path></svg>
+                            </div>
+                            <h4>BlueWave</h4>
+                            <span class="logo-category">Consulting</span>
+                            <div class="logo-actions">
+                                <button class="action-btn add-btn" title="Add to Invoice">🧾</button>
+                                <button class="action-btn edit-btn" title="Edit">✏️</button>
+                                <button class="action-btn delete-btn" title="Delete">🗑️</button>
+                            </div>
+                        </div>
+
+                        <!-- Logo Card 3 -->
+                        <div class="logo-card">
+                            <div class="logo-visual bg-craft">
+                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="3" y1="9" x2="21" y2="9"></line><line x1="9" y1="21" x2="9" y2="9"></line></svg>
+                            </div>
+                            <h4>PixelCraft</h4>
+                            <span class="logo-category">Design Agency</span>
+                            <div class="logo-actions">
+                                <button class="action-btn add-btn" title="Add to Invoice">🧾</button>
+                                <button class="action-btn edit-btn" title="Edit">✏️</button>
+                                <button class="action-btn delete-btn" title="Delete">🗑️</button>
+                            </div>
+                        </div>
+
+                        <!-- Logo Card 4 -->
+                        <div class="logo-card">
+                            <div class="logo-visual bg-leaf">
+                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="M12 2c-5.5 0-10 4.5-10 10s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2z"></path><path d="M12 2v20"></path><path d="M12 12c-3.3 0-6-2.7-6-6"></path></svg>
+                            </div>
+                            <h4>GreenLeaf</h4>
+                            <span class="logo-category">Eco Products</span>
+                            <div class="logo-actions">
+                                <button class="action-btn add-btn" title="Add to Invoice">🧾</button>
+                                <button class="action-btn edit-btn" title="Edit">✏️</button>
+                                <button class="action-btn delete-btn" title="Delete">🗑️</button>
+                            </div>
+                        </div>
+
+                        <!-- Logo Card 5 -->
+                        <div class="logo-card">
+                            <div class="logo-visual bg-sky">
+                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="M3 21h18"></path><path d="M5 21V7l8-4v18"></path><path d="M13 11h8v10"></path></svg>
+                            </div>
+                            <h4>Skyline Ltd.</h4>
+                            <span class="logo-category">Real Estate</span>
+                            <div class="logo-actions">
+                                <button class="action-btn add-btn" title="Add to Invoice">🧾</button>
+                                <button class="action-btn edit-btn" title="Edit">✏️</button>
+                                <button class="action-btn delete-btn" title="Delete">🗑️</button>
+                            </div>
+                        </div>
+
+                        <!-- Upload Card (Card 6) -->
+                        <div class="logo-card upload-card">
+                            <div class="upload-icon-wrapper">
+                                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+                            </div>
+                            <h4>Upload New Logo</h4>
+                            <span class="logo-category">PNG, JPG, SVG</span>
+                        </div>
+
+                    </div>
+                </div>
+            </div>        
+        </div>
+    </section>
+    <!-- 5. INVOICE HISTORY & TRACKING SECTION -->
+    <section class="history-section" id="history">
+        <div class="history-container">
+            
+            <!-- LEFT COLUMN: Unified History Dashboard -->
+            <div class="history-dashboard animate-slide-up">
+                
+                <div class="unified-dashboard-card">
+                    
+                    <!-- Top Dashboard Stats Row -->
+                    <div class="dashboard-stats-row">
+                        <!-- User Profile Info -->
+                        <div class="stat-item user-profile">
+                            <span class="stat-title">Welcome back,</span>
+                            <strong class="stat-val text-primary">Rahul Sharma</strong>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-title">Invoices Generated</span>
+                            <strong class="stat-val">342</strong>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-title">Generated Reports</span>
+                            <strong class="stat-val">18</strong>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-title">Latest Report</span>
+                            <strong class="stat-val">Q2 Financials</strong>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-title">Est. Spendings</span>
+                            <strong class="stat-val">₹ 4,50,000</strong>
+                        </div>
+                    </div>
+
+                    <div class="dashboard-divider"></div>
+
+                    <!-- Dashboard Header -->
+                    <div class="ui-header">
+                        <div class="ui-header-left">
+                            <div class="ui-icon">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+                            </div>
+                            <div>
+                                <h3>Recent Invoices</h3>
+                                <span>Preview of your latest billing history</span>
+                            </div>
+                        </div>
+                        <button class="btn btn-outline btn-sm">View All History</button>
+                    </div>
+
+                    <!-- History List Container -->
+                    <div class="history-list">
+                        
+                        <!-- History Item 1 -->
+                        <div class="history-item">
+                            <div class="h-col h-main-info">
+                                <strong>#INV-2026-089</strong>
+                                <span>Global Tech Solutions</span>
+                            </div>
+                            <div class="h-col h-date">06 Jul 2026</div>
+                            <div class="h-col h-amount">₹ 85,500</div>
+                            <div class="h-col h-status"><span class="h-badge badge-paid">Paid</span></div>
+                            <div class="h-col h-actions">
+                                <button class="action-btn" title="View">👁️</button>
+                                <button class="action-btn" title="Download PDF">⬇️</button>
+                            </div>
+                        </div>
+
+                        <!-- History Item 2 -->
+                        <div class="history-item">
+                            <div class="h-col h-main-info">
+                                <strong>#INV-2026-088</strong>
+                                <span>Alpha Systems Pvt Ltd</span>
+                            </div>
+                            <div class="h-col h-date">02 Jul 2026</div>
+                            <div class="h-col h-amount">₹ 1,20,000</div>
+                            <div class="h-col h-status"><span class="h-badge badge-pending">Pending</span></div>
+                            <div class="h-col h-actions">
+                                <button class="action-btn" title="View">👁️</button>
+                                <button class="action-btn" title="Download PDF">⬇️</button>
+                            </div>
+                        </div>
+
+                        <!-- History Item 3 -->
+                        <div class="history-item">
+                            <div class="h-col h-main-info">
+                                <strong>#INV-2026-087</strong>
+                                <span>Reliance Retail Corp</span>
+                            </div>
+                            <div class="h-col h-date">28 Jun 2026</div>
+                            <div class="h-col h-amount">₹ 45,000</div>
+                            <div class="h-col h-status"><span class="h-badge badge-paid">Paid</span></div>
+                            <div class="h-col h-actions">
+                                <button class="action-btn" title="View">👁️</button>
+                                <button class="action-btn" title="Download PDF">⬇️</button>
+                            </div>
+                        </div>
+
+                        <!-- History Item 4 -->
+                        <div class="history-item">
+                            <div class="h-col h-main-info">
+                                <strong>#INV-2026-086</strong>
+                                <span>Nexus Creative Agency</span>
+                            </div>
+                            <div class="h-col h-date">15 Jun 2026</div>
+                            <div class="h-col h-amount">₹ 15,750</div>
+                            <div class="h-col h-status"><span class="h-badge badge-overdue">Overdue</span></div>
+                            <div class="h-col h-actions">
+                                <button class="action-btn" title="View">👁️</button>
+                                <button class="action-btn" title="Download PDF">⬇️</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- RIGHT COLUMN: Descriptive Matter -->
+            <div class="history-content animate-fade-in" style="animation-delay: 0.3s;">
+                <div class="feature-badge">
+                    <span class="badge-icon">📈</span> Centralized Tracking
+                </div>
+                
+                <h2 class="section-title-left">Never Lose Track of Your Billing History</h2>
+                
+                <p class="feature-description">
+                    Keep your financial records perfectly organized. Instantly retrieve past invoices, track payment statuses, and monitor your estimated spendings all from one unified dashboard.
+                </p>
+                <p class="feature-description-sub">
+                    Our powerful history module automatically archives every invoice you generate. Easily download past records, check pending amounts in Rupees, and generate comprehensive spending reports for taxation and auditing.
+                </p>
+                
+                <ul class="feature-bullets">
+                    <li><span class="check-icon">✓</span> Real-time Payment Tracking</li>
+                    <li><span class="check-icon">✓</span> One-Click PDF Reprints</li>
+                    <li><span class="check-icon">✓</span> Automated Archiving</li>
+                    <li><span class="check-icon">✓</span> Advanced Search & Filters</li>
+                </ul>
+            </div>
+            
+        </div>
+    </section>
+    <!-- 6. ABOUT US & TESTIMONIALS SECTION -->
+    <section class="about-section" id="about">
+        <div class="about-container">
+            
+            <!-- About Us Header -->
+            <div class="about-header animate-slide-up">
+                <h2 class="section-title">About Us</h2>
+                <div class="title-underline"></div>
+                <p class="about-description">
+                    We are the industry's most secure and trusted billing platform, designed to streamline your financial operations. Our enterprise-grade security and intuitive interface ensure your invoicing is fast, accurate, and effortlessly professional.
+                </p>
+                
+                <!-- Trustpilot Rating -->
+                <div class="trustpilot-rating">
+                    <div class="stars">
+                        <!-- Greenlight stars for Trustpilot -->
+                        <span class="tp-star">★</span>
+                        <span class="tp-star">★</span>
+                        <span class="tp-star">★</span>
+                        <span class="tp-star">★</span>
+                        <span class="tp-star">★</span>
+                    </div>
+                    <span class="rating-text">Rated <strong>4.9/5</strong> on <strong>Trustpilot</strong></span>
+                </div>
+            </div>
+
+            <!-- Testimonials Grid (5 Users) -->
+            <div class="testimonials-grid animate-fade-in" style="animation-delay: 0.2s;">
+                
+                <!-- Testimonial 1 -->
+                <div class="testimonial-card">
+                    <div class="quote-icon">“</div>
+                    <p class="testimony-text">The intuitive interface and secure cloud storage completely transformed how we handle our billing. Highly recommended for any growing business!</p>
+                    <div class="client-info">
+                        <div class="client-avatar bg-tech">S</div>
+                        <div>
+                            <h4>Srikanth</h4>
+                            <span>Graduate Engineer, Proclink</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial 2 -->
+                <div class="testimonial-card">
+                    <div class="quote-icon">“</div>
+                    <p class="testimony-text">Managing multiple business identities used to be a headache. This platform makes switching between brand logos seamless and incredibly fast.</p>
+                    <div class="client-info">
+                        <div class="client-avatar bg-wave">S</div>
+                        <div>
+                            <h4>Samriti</h4>
+                            <span>Operations Manager, TechFlow</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial 3 -->
+                <div class="testimonial-card">
+                    <div class="quote-icon">“</div>
+                    <p class="testimony-text">The automated history tracking saves us hours every month during tax season. It is by far the most reliable tool in our current tech stack.</p>
+                    <div class="client-info">
+                        <div class="client-avatar bg-craft">N</div>
+                        <div>
+                            <h4>Neha</h4>
+                            <span>Freelance Designer</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial 4 -->
+                <div class="testimonial-card">
+                    <div class="quote-icon">“</div>
+                    <p class="testimony-text">Clean, modern, and exceptionally fast. It feels like a premium SaaS product but remains highly accessible for startups and freelancers alike.</p>
+                    <div class="client-info">
+                        <div class="client-avatar bg-leaf">H</div>
+                        <div>
+                            <h4>Hari</h4>
+                            <span>Founder, Nexus Solutions</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial 5 -->
+                <div class="testimonial-card">
+                    <div class="quote-icon">“</div>
+                    <p class="testimony-text">I love how easily we can generate professional PDFs and track payment statuses in real-time. It's an absolute game-changer for our agency.</p>
+                    <div class="client-info">
+                        <div class="client-avatar bg-sky">D</div>
+                        <div>
+                            <h4>Dhanya</h4>
+                            <span>Finance Lead, Alpha Creatives</span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Trusted By / Partners Infinite Scroll -->
+        <div class="partners-section">
+            <h4 class="partners-title">Trusted by Industry Leaders</h4>
+            <div class="marquee-container">
+                <div class="marquee-content">
+                    <!-- Placeholder text for logos. You can replace these spans with <img> tags for actual company logos -->
+                    <span class="partner-logo">Adobe</span>
+                    <span class="partner-logo">Google</span>
+                    <span class="partner-logo">Microsoft</span>
+                    <span class="partner-logo">Spotify</span>
+                    <span class="partner-logo">Amazon</span>
+                    <span class="partner-logo">Netflix</span>
+                    <span class="partner-logo">Salesforce</span>
+                    
+                    <!-- Duplicated for infinite scroll illusion -->
+                    <span class="partner-logo">Adobe</span>
+                    <span class="partner-logo">Google</span>
+                    <span class="partner-logo">Microsoft</span>
+                    <span class="partner-logo">Spotify</span>
+                    <span class="partner-logo">Amazon</span>
+                    <span class="partner-logo">Netflix</span>
+                    <span class="partner-logo">Salesforce</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 7. FOOTER SECTION -->
+    <footer class="site-footer">
+        <div class="footer-container">
+            <div class="footer-brand-col">
+                <div class="nav-brand footer-brand">
+                    <div class="brand-logo footer-logo"></div>
+                    <span class="brand-name footer-brand-name">Invoice Generator</span>
+                </div>
+                <p class="footer-desc">Professional, fast, and secure invoicing software designed to help you get paid faster.</p>
+            </div>
+            
+            <div class="footer-links-col">
+                <h4>Product</h4>
+                <a href="#">Features</a>
+                <a href="#">Pricing</a>
+                <a href="#">Templates</a>
+                <a href="#">Integrations</a>
+            </div>
+            
+           <div class="footer-links-col">
+                <h4>Company</h4>
+                <a href="#about">About Us</a>
+                <a href="#">Careers</a>
+                <a href="#">Privacy Policy</a>
+                <a href="#">Terms of Service</a>
+            </div>
+
+            <div class="footer-links-col">
+                <h4>Support</h4>
+                <a href="#">Help Center</a>
+                <a href="#">Contact Us</a>
+                <a href="#">API Documentation</a>
+                <a href="#">System Status</a>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <p>&copy; 2026 Invoice Generator. All rights reserved.</p>
+        </div>
+    </footer>
+    <!-- Simple Script to handle Responsive Mobile Menu -->
+    <script>
+        const menuToggle = document.querySelector('.mobile-menu-toggle');
+        const navMenu = document.querySelector('.nav-menu');
+
+        menuToggle.addEventListener('click', () => {
+            menuToggle.classList.toggle('active');
+            navMenu.classList.toggle('active');
+        });
+    </script>
+</body>
+</html>
