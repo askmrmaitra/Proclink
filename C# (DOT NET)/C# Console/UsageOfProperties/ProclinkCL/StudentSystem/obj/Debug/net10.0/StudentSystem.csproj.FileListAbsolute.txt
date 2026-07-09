@@ -1,0 +1,11 @@
+D:\Training\Proclink\Codebase\C#\ProclinkCL\StudentSystem\bin\Debug\net10.0\StudentSystem.deps.json
+D:\Training\Proclink\Codebase\C#\ProclinkCL\StudentSystem\bin\Debug\net10.0\StudentSystem.dll
+D:\Training\Proclink\Codebase\C#\ProclinkCL\StudentSystem\bin\Debug\net10.0\StudentSystem.pdb
+D:\Training\Proclink\Codebase\C#\ProclinkCL\StudentSystem\obj\Debug\net10.0\StudentSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Proclink\Codebase\C#\ProclinkCL\StudentSystem\obj\Debug\net10.0\StudentSystem.AssemblyInfoInputs.cache
+D:\Training\Proclink\Codebase\C#\ProclinkCL\StudentSystem\obj\Debug\net10.0\StudentSystem.AssemblyInfo.cs
+D:\Training\Proclink\Codebase\C#\ProclinkCL\StudentSystem\obj\Debug\net10.0\StudentSystem.csproj.CoreCompileInputs.cache
+D:\Training\Proclink\Codebase\C#\ProclinkCL\StudentSystem\obj\Debug\net10.0\StudentSystem.dll
+D:\Training\Proclink\Codebase\C#\ProclinkCL\StudentSystem\obj\Debug\net10.0\refint\StudentSystem.dll
+D:\Training\Proclink\Codebase\C#\ProclinkCL\StudentSystem\obj\Debug\net10.0\StudentSystem.pdb
+D:\Training\Proclink\Codebase\C#\ProclinkCL\StudentSystem\obj\Debug\net10.0\ref\StudentSystem.dll

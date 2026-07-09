@@ -1,0 +1,14 @@
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\CustomerFeedBack\bin\Debug\net10.0\CustomerFeedBack.exe
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\CustomerFeedBack\bin\Debug\net10.0\CustomerFeedBack.deps.json
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\CustomerFeedBack\bin\Debug\net10.0\CustomerFeedBack.runtimeconfig.json
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\CustomerFeedBack\bin\Debug\net10.0\CustomerFeedBack.dll
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\CustomerFeedBack\bin\Debug\net10.0\CustomerFeedBack.pdb
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\CustomerFeedBack\obj\Debug\net10.0\CustomerFeedBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\CustomerFeedBack\obj\Debug\net10.0\CustomerFeedBack.AssemblyInfoInputs.cache
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\CustomerFeedBack\obj\Debug\net10.0\CustomerFeedBack.AssemblyInfo.cs
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\CustomerFeedBack\obj\Debug\net10.0\CustomerFeedBack.csproj.CoreCompileInputs.cache
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\CustomerFeedBack\obj\Debug\net10.0\CustomerFeedBack.dll
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\CustomerFeedBack\obj\Debug\net10.0\refint\CustomerFeedBack.dll
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\CustomerFeedBack\obj\Debug\net10.0\CustomerFeedBack.pdb
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\CustomerFeedBack\obj\Debug\net10.0\CustomerFeedBack.genruntimeconfig.cache
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\CustomerFeedBack\obj\Debug\net10.0\ref\CustomerFeedBack.dll

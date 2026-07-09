@@ -1,0 +1,14 @@
+E:\Training\Hexaware\CodeBase\varVsdynamic\varVsdynamic\bin\Debug\net8.0\varVsdynamic.exe
+E:\Training\Hexaware\CodeBase\varVsdynamic\varVsdynamic\bin\Debug\net8.0\varVsdynamic.deps.json
+E:\Training\Hexaware\CodeBase\varVsdynamic\varVsdynamic\bin\Debug\net8.0\varVsdynamic.runtimeconfig.json
+E:\Training\Hexaware\CodeBase\varVsdynamic\varVsdynamic\bin\Debug\net8.0\varVsdynamic.dll
+E:\Training\Hexaware\CodeBase\varVsdynamic\varVsdynamic\bin\Debug\net8.0\varVsdynamic.pdb
+E:\Training\Hexaware\CodeBase\varVsdynamic\varVsdynamic\obj\Debug\net8.0\varVsdynamic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\Hexaware\CodeBase\varVsdynamic\varVsdynamic\obj\Debug\net8.0\varVsdynamic.AssemblyInfoInputs.cache
+E:\Training\Hexaware\CodeBase\varVsdynamic\varVsdynamic\obj\Debug\net8.0\varVsdynamic.AssemblyInfo.cs
+E:\Training\Hexaware\CodeBase\varVsdynamic\varVsdynamic\obj\Debug\net8.0\varVsdynamic.csproj.CoreCompileInputs.cache
+E:\Training\Hexaware\CodeBase\varVsdynamic\varVsdynamic\obj\Debug\net8.0\varVsdynamic.dll
+E:\Training\Hexaware\CodeBase\varVsdynamic\varVsdynamic\obj\Debug\net8.0\refint\varVsdynamic.dll
+E:\Training\Hexaware\CodeBase\varVsdynamic\varVsdynamic\obj\Debug\net8.0\varVsdynamic.pdb
+E:\Training\Hexaware\CodeBase\varVsdynamic\varVsdynamic\obj\Debug\net8.0\varVsdynamic.genruntimeconfig.cache
+E:\Training\Hexaware\CodeBase\varVsdynamic\varVsdynamic\obj\Debug\net8.0\ref\varVsdynamic.dll

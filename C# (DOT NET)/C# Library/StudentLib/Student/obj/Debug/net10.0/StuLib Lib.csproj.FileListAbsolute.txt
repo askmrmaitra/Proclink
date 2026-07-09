@@ -1,0 +1,11 @@
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\bin\Debug\net10.0\StuLib Lib.deps.json
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\bin\Debug\net10.0\StuLib Lib.dll
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\bin\Debug\net10.0\StuLib Lib.pdb
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\StuLib Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\StuLib Lib.AssemblyInfoInputs.cache
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\StuLib Lib.AssemblyInfo.cs
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\StuLib Lib.csproj.CoreCompileInputs.cache
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\StuLib Lib.dll
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\refint\StuLib Lib.dll
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\StuLib Lib.pdb
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\ref\StuLib Lib.dll

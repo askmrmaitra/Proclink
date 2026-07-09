@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\Proclink\\Codebase\\C#\\Basic CS\\FileHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B006E3D-8F03-4246-B002-028BEC08557C}|FileHandling\\FileHandling.csproj|d:\\training\\proclink\\codebase\\c#\\basic cs\\filehandling\\filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B006E3D-8F03-4246-B002-028BEC08557C}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\Proclink\\Codebase\\C#\\Basic CS\\FileHandling\\FileHandling\\Program.cs",
+              "RelativeDocumentMoniker": "FileHandling\\Program.cs",
+              "ToolTip": "D:\\Training\\Proclink\\Codebase\\C#\\Basic CS\\FileHandling\\FileHandling\\Program.cs",
+              "RelativeToolTip": "FileHandling\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T04:47:15.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

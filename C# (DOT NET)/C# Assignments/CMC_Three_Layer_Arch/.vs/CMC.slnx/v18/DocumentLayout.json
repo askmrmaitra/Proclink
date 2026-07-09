@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\venkata.srikanth\\source\\repos\\CMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{296048F8-6870-7368-130E-D4FFA8C9A849}|CMC_Three_Layer_Arch\\CMC_Three_Layer_Arch.csproj|c:\\users\\venkata.srikanth\\source\\repos\\cmc\\cmc_three_layer_arch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296048F8-6870-7368-130E-D4FFA8C9A849}|CMC_Three_Layer_Arch\\CMC_Three_Layer_Arch.csproj|solutionrelative:cmc_three_layer_arch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296048F8-6870-7368-130E-D4FFA8C9A849}|CMC_Three_Layer_Arch\\CMC_Three_Layer_Arch.csproj|c:\\users\\venkata.srikanth\\source\\repos\\cmc\\cmc_three_layer_arch\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296048F8-6870-7368-130E-D4FFA8C9A849}|CMC_Three_Layer_Arch\\CMC_Three_Layer_Arch.csproj|solutionrelative:cmc_three_layer_arch\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296048F8-6870-7368-130E-D4FFA8C9A849}|CMC_Three_Layer_Arch\\CMC_Three_Layer_Arch.csproj|c:\\users\\venkata.srikanth\\source\\repos\\cmc\\cmc_three_layer_arch\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296048F8-6870-7368-130E-D4FFA8C9A849}|CMC_Three_Layer_Arch\\CMC_Three_Layer_Arch.csproj|solutionrelative:cmc_three_layer_arch\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296048F8-6870-7368-130E-D4FFA8C9A849}|CMC_Three_Layer_Arch\\CMC_Three_Layer_Arch.csproj|c:\\users\\venkata.srikanth\\source\\repos\\cmc\\cmc_three_layer_arch\\customeraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296048F8-6870-7368-130E-D4FFA8C9A849}|CMC_Three_Layer_Arch\\CMC_Three_Layer_Arch.csproj|solutionrelative:cmc_three_layer_arch\\customeraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\source\\repos\\CMC\\CMC_Three_Layer_Arch\\Customer.cs",
+              "RelativeDocumentMoniker": "CMC_Three_Layer_Arch\\Customer.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\source\\repos\\CMC\\CMC_Three_Layer_Arch\\Customer.cs",
+              "RelativeToolTip": "CMC_Three_Layer_Arch\\Customer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T07:17:01.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerAddress.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\source\\repos\\CMC\\CMC_Three_Layer_Arch\\CustomerAddress.cs",
+              "RelativeDocumentMoniker": "CMC_Three_Layer_Arch\\CustomerAddress.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\source\\repos\\CMC\\CMC_Three_Layer_Arch\\CustomerAddress.cs",
+              "RelativeToolTip": "CMC_Three_Layer_Arch\\CustomerAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T07:26:47.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\source\\repos\\CMC\\CMC_Three_Layer_Arch\\DB.cs",
+              "RelativeDocumentMoniker": "CMC_Three_Layer_Arch\\DB.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\source\\repos\\CMC\\CMC_Three_Layer_Arch\\DB.cs",
+              "RelativeToolTip": "CMC_Three_Layer_Arch\\DB.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T07:07:33.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\source\\repos\\CMC\\CMC_Three_Layer_Arch\\Program.cs",
+              "RelativeDocumentMoniker": "CMC_Three_Layer_Arch\\Program.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\source\\repos\\CMC\\CMC_Three_Layer_Arch\\Program.cs",
+              "RelativeToolTip": "CMC_Three_Layer_Arch\\Program.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAIwDEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:56:44.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADONETBasrics", "ADONETBasrics\ADONETBasrics.csproj", "{C8F92D38-5E29-4BAD-A5E9-E0B3F4FCEF28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCorewithCA", "..\..\..\..\CTS Chennai\EFCorewithCA\EFCorewithCA\EFCorewithCA.csproj", "{6563701B-253F-4A37-9270-54B425CD737C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8F92D38-5E29-4BAD-A5E9-E0B3F4FCEF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F92D38-5E29-4BAD-A5E9-E0B3F4FCEF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F92D38-5E29-4BAD-A5E9-E0B3F4FCEF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F92D38-5E29-4BAD-A5E9-E0B3F4FCEF28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6563701B-253F-4A37-9270-54B425CD737C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6563701B-253F-4A37-9270-54B425CD737C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6563701B-253F-4A37-9270-54B425CD737C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6563701B-253F-4A37-9270-54B425CD737C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BC69D15-59AA-4F8C-9AAD-3A777452ABF1}
+	EndGlobalSection
+EndGlobal

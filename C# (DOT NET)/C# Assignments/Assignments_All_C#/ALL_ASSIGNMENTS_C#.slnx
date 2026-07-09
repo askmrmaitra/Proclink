@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../Assignment2/Assignment2/Assignment2_c#.csproj" />
+  <Project Path="../Compare&amp;Serialize/Compare&amp;Serialize/Compare&amp;Serialize.csproj" />
+  <Project Path="../DateAndString/DateAndString/DATETIME.csproj" />
+  <Project Path="../DateAndString/StringHandeling/StringHandeling.csproj" />
+  <Project Path="../StudentLib/Student/StuLib Lib.csproj" />
+  <Project Path="../StuLibConsole/StuLib/StuLib Console.csproj" />
+  <Project Path="Assignments_c#/Assignment1_c#.csproj" />
+</Solution>

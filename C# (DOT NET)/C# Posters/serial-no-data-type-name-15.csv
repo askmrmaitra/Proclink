@@ -1,0 +1,16 @@
+﻿Serial No,Data Type Name,Meaning,Declaration & Usage
+1,int,Represents a 32‑bit signed integer. Used for whole numbers.,int age = 25; Console.WriteLine(age);
+2,double,Represents a 64‑bit double‑precision floating‑point number. Used for decimals with high precision.,double price = 99.99; Console.WriteLine(price);
+3,float,Represents a 32‑bit single‑precision floating‑point number. Used for decimals with less precision.,float pi = 3.14f; Console.WriteLine(pi);
+4,decimal,Represents a 128‑bit precise decimal value. Best for financial calculations.,decimal salary = 50000.75m; Console.WriteLine(salary);
+5,char,Represents a single Unicode character.,char grade = 'A'; Console.WriteLine(grade);
+6,string,Represents a sequence of characters (text).,"string name = ""John""; Console.WriteLine(name);"
+7,bool,Represents a Boolean value: true or false.,bool isActive = true; Console.WriteLine(isActive);
+8,object,Base type for all data types in C#. Can store any type of data.,"object data = ""Hello""; Console.WriteLine(data);"
+9,var,Implicitly typed variable. Type is determined at compile time.,"var city = ""Hyderabad""; Console.WriteLine(city);"
+10,dynamic,Type is resolved at runtime. Useful for flexible scenarios.,"dynamic value = 10; value = ""Ten""; Console.WriteLine(value);"
+11,long,Represents a 64‑bit signed integer. Used for very large whole numbers.,long population = 7800000000; Console.WriteLine(population);
+12,short,Represents a 16‑bit signed integer. Smaller range than int.,short temperature = -10; Console.WriteLine(temperature);
+13,byte,Represents an 8‑bit unsigned integer (0–255).,byte level = 200; Console.WriteLine(level);
+14,sbyte,Represents an 8‑bit signed integer (‑128 to 127).,sbyte offset = -50; Console.WriteLine(offset);
+15,uint,Represents a 32‑bit unsigned integer (only positive values).,uint score = 100; Console.WriteLine(score);

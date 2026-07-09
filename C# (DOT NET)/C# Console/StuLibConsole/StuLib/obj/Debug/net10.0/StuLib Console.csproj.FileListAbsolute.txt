@@ -1,0 +1,19 @@
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\bin\Debug\net10.0\StuLib Console.exe
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\bin\Debug\net10.0\StuLib Console.deps.json
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\bin\Debug\net10.0\StuLib Console.runtimeconfig.json
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\bin\Debug\net10.0\StuLib Console.dll
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\bin\Debug\net10.0\StuLib Console.pdb
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\bin\Debug\net10.0\Student.dll
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\bin\Debug\net10.0\Student.pdb
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\obj\Debug\net10.0\StuLib Console.csproj.AssemblyReference.cache
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\obj\Debug\net10.0\StuLib Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\obj\Debug\net10.0\StuLib Console.AssemblyInfoInputs.cache
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\obj\Debug\net10.0\StuLib Console.AssemblyInfo.cs
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\obj\Debug\net10.0\StuLib Console.csproj.CoreCompileInputs.cache
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\obj\Debug\net10.0\StuLib C.4B5BA0D3.Up2Date
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\obj\Debug\net10.0\StuLib Console.dll
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\obj\Debug\net10.0\refint\StuLib Console.dll
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\obj\Debug\net10.0\StuLib Console.pdb
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\obj\Debug\net10.0\StuLib Console.genruntimeconfig.cache
+C:\Users\venkata.srikanth\source\repos\StuLibConsole\StuLib\obj\Debug\net10.0\ref\StuLib Console.dll

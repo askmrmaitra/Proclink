@@ -1,0 +1,42 @@
+E:\Training\Hexaware\CodeBase\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.exe
+E:\Training\Hexaware\CodeBase\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.deps.json
+E:\Training\Hexaware\CodeBase\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.runtimeconfig.json
+E:\Training\Hexaware\CodeBase\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.dll
+E:\Training\Hexaware\CodeBase\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.pdb
+E:\Training\Hexaware\CodeBase\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\Hexaware\CodeBase\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfoInputs.cache
+E:\Training\Hexaware\CodeBase\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfo.cs
+E:\Training\Hexaware\CodeBase\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+E:\Training\Hexaware\CodeBase\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.dll
+E:\Training\Hexaware\CodeBase\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\refint\ExceptionHandling.dll
+E:\Training\Hexaware\CodeBase\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.pdb
+E:\Training\Hexaware\CodeBase\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.genruntimeconfig.cache
+E:\Training\Hexaware\CodeBase\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ref\ExceptionHandling.dll
+E:\Training\Linde\Codebase\Basic CS\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.exe
+E:\Training\Linde\Codebase\Basic CS\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.deps.json
+E:\Training\Linde\Codebase\Basic CS\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.runtimeconfig.json
+E:\Training\Linde\Codebase\Basic CS\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.dll
+E:\Training\Linde\Codebase\Basic CS\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.pdb
+E:\Training\Linde\Codebase\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\Linde\Codebase\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfoInputs.cache
+E:\Training\Linde\Codebase\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfo.cs
+E:\Training\Linde\Codebase\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+E:\Training\Linde\Codebase\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.dll
+E:\Training\Linde\Codebase\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\refint\ExceptionHandling.dll
+E:\Training\Linde\Codebase\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.pdb
+E:\Training\Linde\Codebase\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.genruntimeconfig.cache
+E:\Training\Linde\Codebase\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ref\ExceptionHandling.dll
+D:\Training\Proclink\Codebase\C#\Basic CS\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.exe
+D:\Training\Proclink\Codebase\C#\Basic CS\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.deps.json
+D:\Training\Proclink\Codebase\C#\Basic CS\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.runtimeconfig.json
+D:\Training\Proclink\Codebase\C#\Basic CS\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.dll
+D:\Training\Proclink\Codebase\C#\Basic CS\ExceptionHandling\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.pdb
+D:\Training\Proclink\Codebase\C#\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Proclink\Codebase\C#\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfoInputs.cache
+D:\Training\Proclink\Codebase\C#\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfo.cs
+D:\Training\Proclink\Codebase\C#\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Training\Proclink\Codebase\C#\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.dll
+D:\Training\Proclink\Codebase\C#\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\refint\ExceptionHandling.dll
+D:\Training\Proclink\Codebase\C#\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.pdb
+D:\Training\Proclink\Codebase\C#\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.genruntimeconfig.cache
+D:\Training\Proclink\Codebase\C#\Basic CS\ExceptionHandling\ExceptionHandling\obj\Debug\net8.0\ref\ExceptionHandling.dll

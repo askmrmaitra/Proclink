@@ -1,0 +1,14 @@
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\bin\Debug\net10.0\Assignments_On_Delegate&Exceptions.exe
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\bin\Debug\net10.0\Assignments_On_Delegate&Exceptions.deps.json
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\bin\Debug\net10.0\Assignments_On_Delegate&Exceptions.runtimeconfig.json
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\bin\Debug\net10.0\Assignments_On_Delegate&Exceptions.dll
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\bin\Debug\net10.0\Assignments_On_Delegate&Exceptions.pdb
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\Assignments_On_Delegate&Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\Assignments_On_Delegate&Exceptions.AssemblyInfoInputs.cache
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\Assignments_On_Delegate&Exceptions.AssemblyInfo.cs
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\Assignments_On_Delegate&Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\Assignments_On_Delegate&Exceptions.dll
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\refint\Assignments_On_Delegate&Exceptions.dll
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\Assignments_On_Delegate&Exceptions.pdb
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\Assignments_On_Delegate&Exceptions.genruntimeconfig.cache
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\ref\Assignments_On_Delegate&Exceptions.dll

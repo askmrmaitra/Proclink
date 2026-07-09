@@ -1,0 +1,12 @@
+Employee Id : 1
+Name : sri
+Basic Salary : 2300
+Allowance : 12
+Net Salary : 2312
+
+Employee Id : 3
+Name : erd
+Basic Salary : 2340
+Allowance : 5
+Net Salary : 2345
+

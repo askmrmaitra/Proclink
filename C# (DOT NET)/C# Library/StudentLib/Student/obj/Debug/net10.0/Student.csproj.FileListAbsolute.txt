@@ -1,0 +1,11 @@
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\bin\Debug\net10.0\Student.deps.json
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\bin\Debug\net10.0\Student.dll
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\bin\Debug\net10.0\Student.pdb
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\Student.AssemblyInfoInputs.cache
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\Student.AssemblyInfo.cs
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\Student.csproj.CoreCompileInputs.cache
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\Student.dll
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\refint\Student.dll
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\Student.pdb
+C:\Users\venkata.srikanth\source\repos\StudentLib\Student\obj\Debug\net10.0\ref\Student.dll

@@ -1,0 +1,14 @@
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\bin\Debug\net10.0\StudentMarksEval.exe
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\bin\Debug\net10.0\StudentMarksEval.deps.json
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\bin\Debug\net10.0\StudentMarksEval.runtimeconfig.json
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\bin\Debug\net10.0\StudentMarksEval.dll
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\bin\Debug\net10.0\StudentMarksEval.pdb
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\StudentMarksEval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\StudentMarksEval.AssemblyInfoInputs.cache
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\StudentMarksEval.AssemblyInfo.cs
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\StudentMarksEval.csproj.CoreCompileInputs.cache
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\StudentMarksEval.dll
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\refint\StudentMarksEval.dll
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\StudentMarksEval.pdb
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\StudentMarksEval.genruntimeconfig.cache
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\Assignments_On_Delegate&Exceptions\obj\Debug\net10.0\ref\StudentMarksEval.dll

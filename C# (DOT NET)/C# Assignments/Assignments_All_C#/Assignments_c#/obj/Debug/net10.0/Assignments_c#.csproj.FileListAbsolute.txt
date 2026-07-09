@@ -1,0 +1,14 @@
+C:\Users\venkata.srikanth\source\repos\Assignments_c#\Assignments_c#\bin\Debug\net10.0\Assignments_c#.exe
+C:\Users\venkata.srikanth\source\repos\Assignments_c#\Assignments_c#\bin\Debug\net10.0\Assignments_c#.deps.json
+C:\Users\venkata.srikanth\source\repos\Assignments_c#\Assignments_c#\bin\Debug\net10.0\Assignments_c#.runtimeconfig.json
+C:\Users\venkata.srikanth\source\repos\Assignments_c#\Assignments_c#\bin\Debug\net10.0\Assignments_c#.dll
+C:\Users\venkata.srikanth\source\repos\Assignments_c#\Assignments_c#\bin\Debug\net10.0\Assignments_c#.pdb
+C:\Users\venkata.srikanth\source\repos\Assignments_c#\Assignments_c#\obj\Debug\net10.0\Assignments_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venkata.srikanth\source\repos\Assignments_c#\Assignments_c#\obj\Debug\net10.0\Assignments_c#.AssemblyInfoInputs.cache
+C:\Users\venkata.srikanth\source\repos\Assignments_c#\Assignments_c#\obj\Debug\net10.0\Assignments_c#.AssemblyInfo.cs
+C:\Users\venkata.srikanth\source\repos\Assignments_c#\Assignments_c#\obj\Debug\net10.0\Assignments_c#.csproj.CoreCompileInputs.cache
+C:\Users\venkata.srikanth\source\repos\Assignments_c#\Assignments_c#\obj\Debug\net10.0\Assignments_c#.dll
+C:\Users\venkata.srikanth\source\repos\Assignments_c#\Assignments_c#\obj\Debug\net10.0\refint\Assignments_c#.dll
+C:\Users\venkata.srikanth\source\repos\Assignments_c#\Assignments_c#\obj\Debug\net10.0\Assignments_c#.pdb
+C:\Users\venkata.srikanth\source\repos\Assignments_c#\Assignments_c#\obj\Debug\net10.0\Assignments_c#.genruntimeconfig.cache
+C:\Users\venkata.srikanth\source\repos\Assignments_c#\Assignments_c#\obj\Debug\net10.0\ref\Assignments_c#.dll

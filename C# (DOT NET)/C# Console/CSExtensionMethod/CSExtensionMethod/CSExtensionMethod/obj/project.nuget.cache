@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZyThP52MAko=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\venkata.srikanth\\Downloads\\console_fundamentals_dotnet\\CSExtensionMethod\\CSExtensionMethod\\CSExtensionMethod\\CSExtensionMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\venkata.srikanth\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\venkata.srikanth\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\venkata.srikanth\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\venkata.srikanth\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

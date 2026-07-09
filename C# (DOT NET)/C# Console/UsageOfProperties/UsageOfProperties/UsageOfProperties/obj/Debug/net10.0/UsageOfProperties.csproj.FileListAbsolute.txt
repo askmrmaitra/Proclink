@@ -1,0 +1,15 @@
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\obj\Debug\net10.0\UsageOfProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\obj\Debug\net10.0\UsageOfProperties.AssemblyInfoInputs.cache
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\obj\Debug\net10.0\UsageOfProperties.AssemblyInfo.cs
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\obj\Debug\net10.0\UsageOfProperties.csproj.CoreCompileInputs.cache
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\bin\Debug\net10.0\UsageOfProperties.exe
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\bin\Debug\net10.0\UsageOfProperties.deps.json
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\bin\Debug\net10.0\UsageOfProperties.runtimeconfig.json
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\bin\Debug\net10.0\UsageOfProperties.dll
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\bin\Debug\net10.0\UsageOfProperties.pdb
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\obj\Debug\net10.0\UsageOfProperties.dll
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\obj\Debug\net10.0\refint\UsageOfProperties.dll
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\obj\Debug\net10.0\UsageOfProperties.pdb
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\obj\Debug\net10.0\UsageOfProperties.genruntimeconfig.cache
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\obj\Debug\net10.0\ref\UsageOfProperties.dll
+D:\Training\Proclink\Codebase\C#\UsageOfProperties\UsageOfProperties\obj\Debug\net10.0\UsageOfProperties.csproj.AssemblyReference.cache

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\Proclink\\Codebase\\C#\\AdvancedCS\\SerializationAndDeserialization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590EFA01-BCAE-4C7C-A8BE-A11F96CAA755}|SerializationAndDeserialization\\SerializationAndDeserialization.csproj|d:\\training\\proclink\\codebase\\c#\\advancedcs\\serializationanddeserialization\\serializationanddeserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590EFA01-BCAE-4C7C-A8BE-A11F96CAA755}|SerializationAndDeserialization\\SerializationAndDeserialization.csproj|solutionrelative:serializationanddeserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\Proclink\\Codebase\\C#\\AdvancedCS\\SerializationAndDeserialization\\SerializationAndDeserialization\\Program.cs",
+              "RelativeDocumentMoniker": "SerializationAndDeserialization\\Program.cs",
+              "ToolTip": "D:\\Training\\Proclink\\Codebase\\C#\\AdvancedCS\\SerializationAndDeserialization\\SerializationAndDeserialization\\Program.cs",
+              "RelativeToolTip": "SerializationAndDeserialization\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwDMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T04:58:31.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

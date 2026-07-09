@@ -1,0 +1,42 @@
+E:\Training\Hexaware\CodeBase\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.exe
+E:\Training\Hexaware\CodeBase\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.deps.json
+E:\Training\Hexaware\CodeBase\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.runtimeconfig.json
+E:\Training\Hexaware\CodeBase\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.dll
+E:\Training\Hexaware\CodeBase\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.pdb
+E:\Training\Hexaware\CodeBase\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\Hexaware\CodeBase\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.AssemblyInfoInputs.cache
+E:\Training\Hexaware\CodeBase\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.AssemblyInfo.cs
+E:\Training\Hexaware\CodeBase\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.csproj.CoreCompileInputs.cache
+E:\Training\Hexaware\CodeBase\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.dll
+E:\Training\Hexaware\CodeBase\FileHandling\FileHandling\obj\Debug\net8.0\refint\FileHandling.dll
+E:\Training\Hexaware\CodeBase\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.pdb
+E:\Training\Hexaware\CodeBase\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.genruntimeconfig.cache
+E:\Training\Hexaware\CodeBase\FileHandling\FileHandling\obj\Debug\net8.0\ref\FileHandling.dll
+E:\Training\Linde\Codebase\Basic CS\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.exe
+E:\Training\Linde\Codebase\Basic CS\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.deps.json
+E:\Training\Linde\Codebase\Basic CS\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.runtimeconfig.json
+E:\Training\Linde\Codebase\Basic CS\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.dll
+E:\Training\Linde\Codebase\Basic CS\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.pdb
+E:\Training\Linde\Codebase\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\Linde\Codebase\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.AssemblyInfoInputs.cache
+E:\Training\Linde\Codebase\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.AssemblyInfo.cs
+E:\Training\Linde\Codebase\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.csproj.CoreCompileInputs.cache
+E:\Training\Linde\Codebase\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.dll
+E:\Training\Linde\Codebase\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\refint\FileHandling.dll
+E:\Training\Linde\Codebase\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.pdb
+E:\Training\Linde\Codebase\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.genruntimeconfig.cache
+E:\Training\Linde\Codebase\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\ref\FileHandling.dll
+D:\Training\Proclink\Codebase\C#\Basic CS\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.exe
+D:\Training\Proclink\Codebase\C#\Basic CS\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.deps.json
+D:\Training\Proclink\Codebase\C#\Basic CS\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.runtimeconfig.json
+D:\Training\Proclink\Codebase\C#\Basic CS\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.dll
+D:\Training\Proclink\Codebase\C#\Basic CS\FileHandling\FileHandling\bin\Debug\net8.0\FileHandling.pdb
+D:\Training\Proclink\Codebase\C#\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Proclink\Codebase\C#\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.AssemblyInfoInputs.cache
+D:\Training\Proclink\Codebase\C#\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.AssemblyInfo.cs
+D:\Training\Proclink\Codebase\C#\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.csproj.CoreCompileInputs.cache
+D:\Training\Proclink\Codebase\C#\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.dll
+D:\Training\Proclink\Codebase\C#\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\refint\FileHandling.dll
+D:\Training\Proclink\Codebase\C#\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.pdb
+D:\Training\Proclink\Codebase\C#\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\FileHandling.genruntimeconfig.cache
+D:\Training\Proclink\Codebase\C#\Basic CS\FileHandling\FileHandling\obj\Debug\net8.0\ref\FileHandling.dll

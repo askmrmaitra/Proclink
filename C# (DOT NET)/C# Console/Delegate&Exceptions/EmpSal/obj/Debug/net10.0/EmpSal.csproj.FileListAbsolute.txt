@@ -1,0 +1,14 @@
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\EmpSal\bin\Debug\net10.0\EmpSal.exe
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\EmpSal\bin\Debug\net10.0\EmpSal.deps.json
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\EmpSal\bin\Debug\net10.0\EmpSal.runtimeconfig.json
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\EmpSal\bin\Debug\net10.0\EmpSal.dll
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\EmpSal\bin\Debug\net10.0\EmpSal.pdb
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\EmpSal\obj\Debug\net10.0\EmpSal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\EmpSal\obj\Debug\net10.0\EmpSal.AssemblyInfoInputs.cache
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\EmpSal\obj\Debug\net10.0\EmpSal.AssemblyInfo.cs
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\EmpSal\obj\Debug\net10.0\EmpSal.csproj.CoreCompileInputs.cache
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\EmpSal\obj\Debug\net10.0\EmpSal.dll
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\EmpSal\obj\Debug\net10.0\refint\EmpSal.dll
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\EmpSal\obj\Debug\net10.0\EmpSal.pdb
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\EmpSal\obj\Debug\net10.0\EmpSal.genruntimeconfig.cache
+C:\Users\venkata.srikanth\source\repos\Delegate&Exceptions\EmpSal\obj\Debug\net10.0\ref\EmpSal.dll

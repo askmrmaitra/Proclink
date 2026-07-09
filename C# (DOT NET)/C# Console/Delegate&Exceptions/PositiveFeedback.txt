@@ -1,0 +1,9 @@
+Customer Name : sri
+Rating : 4
+
+Customer Name : sri
+Rating : 5
+
+Customer Name : kanth
+Rating : 4
+
