@@ -1,0 +1,294 @@
+﻿@model List<ProductList>
+
+<style>
+    /* 🌟 GOAT Animations & Styling 🌟 */
+
+    /* 1. Staggered Row Fade-in (Notice the @@ to escape Razor) */
+    @@keyframes slideUpFade {
+        0% {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+
+        100% {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .staggered-row {
+        opacity: 0;
+        animation: slideUpFade 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+
+    /* 2. Expanding Emoji Pill */
+    .emoji-reveal {
+        display: inline-flex;
+        align-items: center;
+        background: #ffffff;
+        border: 1px solid #e2e8f0;
+        border-radius: 50px;
+        padding: 6px;
+        max-width: 42px; /* Just enough to show the emoji */
+        overflow: hidden;
+        white-space: nowrap;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+        cursor: pointer;
+        transition: max-width 0.6s cubic-bezier(0.25, 1, 0.5, 1), background-color 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+    }
+
+        .emoji-reveal:hover {
+            max-width: 350px; /* Expands to show the name */
+            background: #f8fafc;
+            box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+            border-color: #cbd5e1;
+        }
+
+        .emoji-reveal .emoji {
+            font-size: 1.2rem;
+            flex-shrink: 0;
+            margin: 0 6px;
+        }
+
+        .emoji-reveal .name {
+            font-weight: 600;
+            color: #334155;
+            opacity: 0;
+            transform: translateX(-10px);
+            margin-left: 5px;
+            margin-right: 15px;
+            transition: opacity 0.3s ease 0.15s, transform 0.3s ease 0.15s;
+        }
+
+        .emoji-reveal:hover .name {
+            opacity: 1;
+            transform: translateX(0);
+        }
+
+    /* 3. Pulsing Badge for Header (Notice the @@ to escape Razor) */
+    @@keyframes pulseGlow {
+        0% {
+            box-shadow: 0 0 0 0 rgba(13, 110, 253, 0.4);
+        }
+
+        70% {
+            box-shadow: 0 0 0 10px rgba(13, 110, 253, 0);
+        }
+
+        100% {
+            box-shadow: 0 0 0 0 rgba(13, 110, 253, 0);
+        }
+    }
+
+    .badge-pulse {
+        animation: pulseGlow 2s infinite;
+        background: linear-gradient(135deg, #0d6efd 0%, #6610f2 100%);
+    }
+
+    /* 4. Table Border, Alternating Rows & Hover Enhancements */
+    .table-goat {
+        border-collapse: collapse;
+    }
+
+        .table-goat th, .table-goat td {
+            border: 1px solid #e9ecef;
+            vertical-align: middle;
+            transition: background-color 0.3s ease, border-color 0.3s ease;
+        }
+
+        .table-goat thead th {
+            background: linear-gradient(to right, #212529, #343a40);
+            color: white;
+            border-bottom: 3px solid #0d6efd;
+            text-transform: uppercase;
+            font-size: 0.85rem;
+            letter-spacing: 0.5px;
+        }
+
+        /* Alternating Soft Colors */
+        .table-goat tbody tr:nth-child(odd) {
+            background: #fcfcfd;
+        }
+
+        .table-goat tbody tr:nth-child(even) {
+            background: #f8fbff;
+        }
+
+        /* Left-Border Highlight & Scale on Hover */
+        .table-goat tbody tr td:first-child {
+            border-left: 4px solid transparent;
+        }
+
+        .table-goat tbody tr:hover td:first-child {
+            border-left: 4px solid #0d6efd;
+        }
+
+        .table-goat tbody tr:hover {
+            transform: scale(1.01);
+            transition: .25s;
+            box-shadow: 0 8px 18px rgba(0,0,0,.08);
+        }
+
+            .table-goat tbody tr:hover td {
+                background-color: #f1f5f9 !important;
+            }
+
+    /* 5. Custom Card Styling */
+    .card-goat {
+        border-radius: 16px;
+        overflow: hidden;
+    }
+</style>
+
+<div class="container-fluid py-4">
+
+    <div class="card border-0 shadow-sm mb-4 card-goat">
+        <div class="card-body d-flex justify-content-between align-items-center p-4">
+            <div>
+                <h2 class="fw-bold mb-1" style="background: linear-gradient(45deg, #0d6efd, #0dcaf0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+                    🛒 Products Inventory
+                </h2>
+                <p class="text-muted mb-0 fw-medium">
+                    Browse all available products in the inventory.
+                </p>
+            </div>
+
+            <span class="badge rounded-pill badge-pulse fs-6 px-4 py-3 border-0">
+                Total Products: <span class="fw-bold ms-1">@(Model?.Count ?? 0)</span>
+            </span>
+        </div>
+    </div>
+
+    @if (Model == null || !Model.Any())
+    {
+        <div class="alert alert-warning text-center shadow-sm card-goat p-5 border-0" style="background: #fff3cd;">
+            <div class="fs-1 mb-3">📭</div>
+            <h4 class="mb-2 fw-bold text-dark">No Products Available</h4>
+            <p class="mb-0 text-muted">Start by adding your first product.</p>
+        </div>
+    }
+    else
+    {
+        <div class="card border-0 shadow card-goat">
+
+            <div class="table-responsive" style="overflow-x: auto; padding: 5px;">
+                <table class="table table-goat align-middle mb-0 m-0">
+                    <thead>
+                        <tr>
+                            <th class="ps-4 py-3 text-center" style="width: 80px;">🆔 ID</th>
+                            <th class="py-3">🛍️ Product</th>
+                            <th class="py-3 text-center">🏷️ Category</th>
+                            <th class="text-end py-3 pe-4">💰 Price</th>
+                            <th class="text-center py-3">📦 Stock</th>
+                            <th class="text-center py-3">📊 Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+                            int rowIndex = 0;
+                        }
+                        @foreach (var product in Model)
+                        {
+                            rowIndex++;
+
+                            // Calculate delay so rows animate in one after another
+                            var animationDelay = (rowIndex * 0.08) + "s";
+
+                            // Dynamic Product Emoji Logic
+                            var productEmoji = (product.Product_name?.ToLower()) switch
+                            {
+                                "apple" => "🍎",
+                                "mango" => "🥭",
+                                "car" => "🏎️",
+                                "pipes" => "🏗️",
+                                "switch" => "🔌",
+                                "ac" => "❄️",
+                                _ => "🛍️" // Fallback if name doesn't match
+                            };
+
+                            // Dynamic Category Emoji Logic
+                            var categoryEmoji = (product.Category?.ToLower()) switch
+                            {
+                                "fruits" => "🍇",
+                                "toys" => "🧸",
+                                "construction" => "🚧",
+                                "electricity" => "⚡",
+                                "households" => "🏠",
+                                "electronics" => "💻",
+                                "mobile" => "📱",
+                                "grocery" => "🛒",
+                                _ => "📦"
+                            };
+
+                            // Status Class & Emoji Logic
+                            var badgeClass = product.Stock_Quantity == 0
+                                ? "bg-danger"
+                                : product.Stock_Quantity < 10
+                                    ? "bg-warning text-dark"
+                                    : "bg-success";
+
+                            var statusEmoji = product.Stock_Quantity == 0
+                                ? "❌"
+                                : product.Stock_Quantity < 10
+                                    ? "⚠️"
+                                    : "✅";
+
+                            var status = product.Stock_Quantity == 0
+                                ? "Out of Stock"
+                                : product.Stock_Quantity < 10
+                                    ? "Low Stock"
+                                    : "Available";
+
+                            <tr class="staggered-row" style="animation-delay: @animationDelay;">
+
+                                <td class="ps-3 text-center fw-bold text-secondary">
+                                    #@product.Product_Id
+                                </td>
+
+                                <td>
+                                    <div class="emoji-reveal">
+                                        <span class="emoji">@productEmoji</span>
+                                        <span class="name">@product.Product_name</span>
+                                    </div>
+                                </td>
+
+                                <td class="text-center">
+                                    <span class="badge bg-light text-secondary border border-secondary-subtle px-3 py-2 shadow-sm">
+                                        @categoryEmoji @product.Category
+                                    </span>
+                                </td>
+
+                                <td class="text-end fw-bold pe-4" style="color: #198754;">
+                                    💰 ₹@product.Price.ToString("N2")
+                                </td>
+
+                                <td class="text-center">
+                                    <span class="badge bg-white text-dark border px-3 py-2 shadow-sm">
+                                        📦 @product.Stock_Quantity
+                                    </span>
+                                </td>
+
+                                <td class="text-center">
+                                    <span class="badge rounded-pill @badgeClass px-4 py-2 shadow-sm" style="letter-spacing: 0.5px;">
+                                        @statusEmoji @status
+                                    </span>
+                                </td>
+
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="card-footer bg-light d-flex justify-content-between align-items-center py-3 px-4 border-top">
+                <span class="text-muted fw-medium">
+                    ✨ Showing <strong class="text-dark">@Model.Count</strong> Amazing Products
+                </span>
+                <span class="badge bg-success-subtle text-success fs-6 border border-success-subtle px-3 py-2 shadow-sm">
+                    ✨ Inventory Synced
+                </span>
+            </div>
+
+        </div>
+    }
+</div>

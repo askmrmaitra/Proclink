@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_net\\asp_dotnet_assignment\\asp_dotnet_products\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|solutionrelative:asp_dotnet_products\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_net\\asp_dotnet_assignment\\asp_dotnet_products\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|solutionrelative:asp_dotnet_products\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_net\\asp_dotnet_assignment\\asp_dotnet_products\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|solutionrelative:asp_dotnet_products\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_net\\asp_dotnet_assignment\\asp_dotnet_products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|solutionrelative:asp_dotnet_products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_net\\asp_dotnet_assignment\\asp_dotnet_products\\models\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|solutionrelative:asp_dotnet_products\\models\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP_DotNet_Products\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP_DotNet_Products\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-08T09:58:13.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_DotNet_Products\\Program.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\Program.cs",
+              "RelativeToolTip": "ASP_DotNet_Products\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T09:52:09.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP_DotNet_Products\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ASP_DotNet_Products\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABMBAAAAAAAAAAAmwCEBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-08T09:47:14.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ASP_DotNet_Products\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ASP_DotNet_Products\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAowD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T09:26:52.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductList.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\Models\\ProductList.cs",
+              "RelativeDocumentMoniker": "ASP_DotNet_Products\\Models\\ProductList.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\Models\\ProductList.cs",
+              "RelativeToolTip": "ASP_DotNet_Products\\Models\\ProductList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T09:28:13.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

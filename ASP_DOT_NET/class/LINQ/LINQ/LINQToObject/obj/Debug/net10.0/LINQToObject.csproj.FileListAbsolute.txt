@@ -1,0 +1,14 @@
+D:\Training\Proclink\Codebase\C#\AdvancedCS\LINQAll\LINQ\LINQToObject\bin\Debug\net10.0\LINQToObject.exe
+D:\Training\Proclink\Codebase\C#\AdvancedCS\LINQAll\LINQ\LINQToObject\bin\Debug\net10.0\LINQToObject.deps.json
+D:\Training\Proclink\Codebase\C#\AdvancedCS\LINQAll\LINQ\LINQToObject\bin\Debug\net10.0\LINQToObject.runtimeconfig.json
+D:\Training\Proclink\Codebase\C#\AdvancedCS\LINQAll\LINQ\LINQToObject\bin\Debug\net10.0\LINQToObject.dll
+D:\Training\Proclink\Codebase\C#\AdvancedCS\LINQAll\LINQ\LINQToObject\bin\Debug\net10.0\LINQToObject.pdb
+D:\Training\Proclink\Codebase\C#\AdvancedCS\LINQAll\LINQ\LINQToObject\obj\Debug\net10.0\LINQToObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Proclink\Codebase\C#\AdvancedCS\LINQAll\LINQ\LINQToObject\obj\Debug\net10.0\LINQToObject.AssemblyInfoInputs.cache
+D:\Training\Proclink\Codebase\C#\AdvancedCS\LINQAll\LINQ\LINQToObject\obj\Debug\net10.0\LINQToObject.AssemblyInfo.cs
+D:\Training\Proclink\Codebase\C#\AdvancedCS\LINQAll\LINQ\LINQToObject\obj\Debug\net10.0\LINQToObject.csproj.CoreCompileInputs.cache
+D:\Training\Proclink\Codebase\C#\AdvancedCS\LINQAll\LINQ\LINQToObject\obj\Debug\net10.0\LINQToObject.dll
+D:\Training\Proclink\Codebase\C#\AdvancedCS\LINQAll\LINQ\LINQToObject\obj\Debug\net10.0\refint\LINQToObject.dll
+D:\Training\Proclink\Codebase\C#\AdvancedCS\LINQAll\LINQ\LINQToObject\obj\Debug\net10.0\LINQToObject.pdb
+D:\Training\Proclink\Codebase\C#\AdvancedCS\LINQAll\LINQ\LINQToObject\obj\Debug\net10.0\LINQToObject.genruntimeconfig.cache
+D:\Training\Proclink\Codebase\C#\AdvancedCS\LINQAll\LINQ\LINQToObject\obj\Debug\net10.0\ref\LINQToObject.dll

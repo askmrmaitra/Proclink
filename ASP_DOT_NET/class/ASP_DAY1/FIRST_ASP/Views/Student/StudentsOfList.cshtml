@@ -1,0 +1,74 @@
+﻿@{
+    ViewData["Title"] = "Student List";
+}
+
+<div class="container py-4">
+
+    <div class="d-flex justify-content-between align-items-end mb-4">
+        <div>
+            <h1 class="h3 mb-1">Student Directory</h1>
+            <p class="text-muted mb-0">Browse and manage active student records.</p>
+        </div>
+        <div>
+            <a asp-controller="Student" asp-action="Create" class="btn btn-primary">
+                + Add Student
+            </a>
+        </div>
+    </div>
+
+    <div class="table-responsive border rounded-3">
+        <table class="table table-hover mb-0 align-middle">
+            <thead class="table-light border-bottom">
+                <tr>
+                    <th class="ps-4">ID</th>
+                    <th>Student Name</th>
+                    <th class="text-end pe-4">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="ps-4 text-muted">#101</td>
+                    <td class="fw-medium">Rahul Sharma</td>
+                    <td class="text-end pe-4">
+                        <button class="btn btn-sm btn-outline-secondary">View</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ps-4 text-muted">#102</td>
+                    <td class="fw-medium">Priya Reddy</td>
+                    <td class="text-end pe-4">
+                        <button class="btn btn-sm btn-outline-secondary">View</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ps-4 text-muted">#103</td>
+                    <td class="fw-medium">Arjun Kumar</td>
+                    <td class="text-end pe-4">
+                        <button class="btn btn-sm btn-outline-secondary">View</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ps-4 text-muted">#104</td>
+                    <td class="fw-medium">Sneha Patel</td>
+                    <td class="text-end pe-4">
+                        <button class="btn btn-sm btn-outline-secondary">View</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="ps-4 text-muted">#105</td>
+                    <td class="fw-medium">Vikram Singh</td>
+                    <td class="text-end pe-4">
+                        <button class="btn btn-sm btn-outline-secondary">View</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="mt-4">
+        <a asp-controller="Student" asp-action="Index" class="text-decoration-none text-muted">
+            &larr; Back to Student Home
+        </a>
+    </div>
+
+</div>

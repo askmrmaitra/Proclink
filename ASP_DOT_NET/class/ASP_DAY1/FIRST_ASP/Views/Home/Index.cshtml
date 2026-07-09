@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container py-4">
+
+    <div class="p-5 mb-4 bg-light rounded-3 border">
+        <div class="container-fluid py-2">
+            <h1 class="display-6 fw-bold">Student Management System</h1>
+            <p class="col-md-8 fs-5 mt-3 text-muted">
+                A streamlined portal for managing student records, admissions, and academic tracking.
+            </p>
+            <a asp-controller="Student" asp-action="Index" class="btn btn-primary mt-2">
+                View Student Directory
+            </a>
+        </div>
+    </div>
+
+    <div class="row align-items-md-stretch mt-4">
+
+        <div class="col-md-6 mb-3 mb-md-0">
+            <div class="h-100 p-4 border rounded-3">
+                <h4>Register New Student</h4>
+                <p class="text-muted">Enter a new student into the database and initialize their academic profile.</p>
+                <a asp-controller="Student" asp-action="Create" class="btn btn-outline-primary">
+                    Add Student
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="h-100 p-4 bg-light border rounded-3">
+                <h4>Manage Records</h4>
+                <p class="text-muted">Search, update, or remove existing student profiles from the system.</p>
+                <a asp-controller="Student" asp-action="Index" class="btn btn-outline-secondary">
+                    Manage Students
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+</div>
