@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|c:\\users\\venkata.srikanth\\downloads\\apis\\assignments\\dapper_apis\\dapper_apis\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|solutionrelative:dapper_apis\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|c:\\users\\venkata.srikanth\\downloads\\apis\\assignments\\dapper_apis\\dapper_apis\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|solutionrelative:dapper_apis\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|c:\\users\\venkata.srikanth\\downloads\\apis\\assignments\\dapper_apis\\dapper_apis\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|solutionrelative:dapper_apis\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|c:\\users\\venkata.srikanth\\downloads\\apis\\assignments\\dapper_apis\\dapper_apis\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|solutionrelative:dapper_apis\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|c:\\users\\venkata.srikanth\\downloads\\apis\\assignments\\dapper_apis\\dapper_apis\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|solutionrelative:dapper_apis\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|c:\\users\\venkata.srikanth\\downloads\\apis\\assignments\\dapper_apis\\dapper_apis\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|solutionrelative:dapper_apis\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|c:\\users\\venkata.srikanth\\downloads\\apis\\assignments\\dapper_apis\\dapper_apis\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|solutionrelative:dapper_apis\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|c:\\users\\venkata.srikanth\\downloads\\apis\\assignments\\dapper_apis\\dapper_apis\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|solutionrelative:dapper_apis\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|c:\\users\\venkata.srikanth\\downloads\\apis\\assignments\\dapper_apis\\dapper_apis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|solutionrelative:dapper_apis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|c:\\users\\venkata.srikanth\\downloads\\apis\\assignments\\dapper_apis\\dapper_apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|solutionrelative:dapper_apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|c:\\users\\venkata.srikanth\\downloads\\apis\\assignments\\dapper_apis\\dapper_apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19249BBA-2142-A336-E9E8-A298DDD2853E}|Dapper_Apis\\Dapper_Apis.csproj|solutionrelative:dapper_apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Dapper_Apis\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Dapper_Apis\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:14:44.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Dapper_Apis\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Dapper_Apis\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:09:42.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Dapper_Apis\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Dapper_Apis\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:09:25.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Models\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Dapper_Apis\\Models\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Models\\EmployeeDto.cs",
+              "RelativeToolTip": "Dapper_Apis\\Models\\EmployeeDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:07:25.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Models\\Designation.cs",
+              "RelativeDocumentMoniker": "Dapper_Apis\\Models\\Designation.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Models\\Designation.cs",
+              "RelativeToolTip": "Dapper_Apis\\Models\\Designation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:07:11.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Dapper_Apis\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Models\\Department.cs",
+              "RelativeToolTip": "Dapper_Apis\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:06:56.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Dapper_Apis\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Models\\Employee.cs",
+              "RelativeToolTip": "Dapper_Apis\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:06:40.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "Dapper_Apis\\Data\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Data\\DapperContext.cs",
+              "RelativeToolTip": "Dapper_Apis\\Data\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:04:15.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Dapper_Apis\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Dapper_Apis\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-14T10:03:19.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Program.cs",
+              "RelativeDocumentMoniker": "Dapper_Apis\\Program.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\Program.cs",
+              "RelativeToolTip": "Dapper_Apis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:02:51.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\appsettings.json",
+              "RelativeDocumentMoniker": "Dapper_Apis\\appsettings.json",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\APIS\\Assignments\\Dapper_Apis\\Dapper_Apis\\appsettings.json",
+              "RelativeToolTip": "Dapper_Apis\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-14T10:02:23.274Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
