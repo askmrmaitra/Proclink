@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Training\\Proclink\\Codebase\\ASP.NET\\WebProject\\",
+  "WorkspaceRootPath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\WebProject\\WebProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5B786A9-D809-419B-8BD7-59C121BE1098}|FirstASPNETApp\\FirstASPNETApp.csproj|d:\\training\\proclink\\codebase\\asp.net\\webproject\\firstaspnetapp\\views\\student\\listofstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5B786A9-D809-419B-8BD7-59C121BE1098}|FirstASPNETApp\\FirstASPNETApp.csproj|solutionrelative:firstaspnetapp\\views\\student\\listofstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{57F135EF-102D-E36C-896C-2C2E651C5D17}|FirstASPNETApp\\FirstASPNETApp.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\class\\webproject\\webproject\\firstaspnetapp\\views\\student\\listofstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57F135EF-102D-E36C-896C-2C2E651C5D17}|FirstASPNETApp\\FirstASPNETApp.csproj|solutionrelative:firstaspnetapp\\views\\student\\listofstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5B786A9-D809-419B-8BD7-59C121BE1098}|FirstASPNETApp\\FirstASPNETApp.csproj|d:\\training\\proclink\\codebase\\asp.net\\webproject\\firstaspnetapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5B786A9-D809-419B-8BD7-59C121BE1098}|FirstASPNETApp\\FirstASPNETApp.csproj|solutionrelative:firstaspnetapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{57F135EF-102D-E36C-896C-2C2E651C5D17}|FirstASPNETApp\\FirstASPNETApp.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\class\\webproject\\webproject\\firstaspnetapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57F135EF-102D-E36C-896C-2C2E651C5D17}|FirstASPNETApp\\FirstASPNETApp.csproj|solutionrelative:firstaspnetapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5B786A9-D809-419B-8BD7-59C121BE1098}|FirstASPNETApp\\FirstASPNETApp.csproj|d:\\training\\proclink\\codebase\\asp.net\\webproject\\firstaspnetapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B786A9-D809-419B-8BD7-59C121BE1098}|FirstASPNETApp\\FirstASPNETApp.csproj|solutionrelative:firstaspnetapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57F135EF-102D-E36C-896C-2C2E651C5D17}|FirstASPNETApp\\FirstASPNETApp.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\class\\webproject\\webproject\\firstaspnetapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57F135EF-102D-E36C-896C-2C2E651C5D17}|FirstASPNETApp\\FirstASPNETApp.csproj|solutionrelative:firstaspnetapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5B786A9-D809-419B-8BD7-59C121BE1098}|FirstASPNETApp\\FirstASPNETApp.csproj|d:\\training\\proclink\\codebase\\asp.net\\webproject\\firstaspnetapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5B786A9-D809-419B-8BD7-59C121BE1098}|FirstASPNETApp\\FirstASPNETApp.csproj|solutionrelative:firstaspnetapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{57F135EF-102D-E36C-896C-2C2E651C5D17}|FirstASPNETApp\\FirstASPNETApp.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\class\\webproject\\webproject\\firstaspnetapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F135EF-102D-E36C-896C-2C2E651C5D17}|FirstASPNETApp\\FirstASPNETApp.csproj|solutionrelative:firstaspnetapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,22 +32,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Training\\Proclink\\Codebase\\ASP.NET\\WebProject\\FirstASPNETApp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\WebProject\\WebProject\\FirstASPNETApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FirstASPNETApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Training\\Proclink\\Codebase\\ASP.NET\\WebProject\\FirstASPNETApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\WebProject\\WebProject\\FirstASPNETApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "FirstASPNETApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-08T06:51:19.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T06:51:19.092Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "listofstudents.cshtml",
-              "DocumentMoniker": "D:\\Training\\Proclink\\Codebase\\ASP.NET\\WebProject\\FirstASPNETApp\\Views\\Student\\listofstudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\WebProject\\WebProject\\FirstASPNETApp\\Views\\Student\\listofstudents.cshtml",
               "RelativeDocumentMoniker": "FirstASPNETApp\\Views\\Student\\listofstudents.cshtml",
-              "ToolTip": "D:\\Training\\Proclink\\Codebase\\ASP.NET\\WebProject\\FirstASPNETApp\\Views\\Student\\listofstudents.cshtml",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\WebProject\\WebProject\\FirstASPNETApp\\Views\\Student\\listofstudents.cshtml",
               "RelativeToolTip": "FirstASPNETApp\\Views\\Student\\listofstudents.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -56,29 +55,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Training\\Proclink\\Codebase\\ASP.NET\\WebProject\\FirstASPNETApp\\Views\\Student\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\WebProject\\WebProject\\FirstASPNETApp\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "FirstASPNETApp\\Views\\Student\\Index.cshtml",
-              "ToolTip": "D:\\Training\\Proclink\\Codebase\\ASP.NET\\WebProject\\FirstASPNETApp\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\WebProject\\WebProject\\FirstASPNETApp\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "FirstASPNETApp\\Views\\Student\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-08T06:41:31.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T06:41:31.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\Training\\Proclink\\Codebase\\ASP.NET\\WebProject\\FirstASPNETApp\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\WebProject\\WebProject\\FirstASPNETApp\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "FirstASPNETApp\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\Training\\Proclink\\Codebase\\ASP.NET\\WebProject\\FirstASPNETApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\WebProject\\WebProject\\FirstASPNETApp\\Controllers\\StudentController.cs",
               "RelativeToolTip": "FirstASPNETApp\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T06:41:05.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T06:41:05.413Z"
             }
           ]
         }

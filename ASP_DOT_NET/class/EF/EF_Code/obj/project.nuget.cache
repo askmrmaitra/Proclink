@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bLmCF0qjzX0=",
+  "dgSpecHash": "5H93DQDZ/2w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\EF\\EF_Code\\EF_Code.csproj",
+  "projectFilePath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\EF\\EF_Code\\EF_Code.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\venkata.srikanth\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\venkata.srikanth\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

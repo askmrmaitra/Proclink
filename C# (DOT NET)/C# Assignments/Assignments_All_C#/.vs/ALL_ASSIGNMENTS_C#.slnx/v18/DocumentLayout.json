@@ -1,16 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\venkata.srikanth\\source\\repos\\Assignments_All_C#\\",
+  "WorkspaceRootPath": "C:\\Users\\venkata.srikanth\\Downloads\\C# (DOT NET)\\C# Assignments\\Assignments_All_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E54A6BDF-F314-8E71-9409-8C063B43F71C}|..\\DateAndString\\DateAndString\\DATETIME.csproj|c:\\users\\venkata.srikanth\\source\\repos\\dateandstring\\dateandstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\venkata.srikanth\\source\\repos\\DateAndString\\DateAndString\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3CFC424-0F85-7BFB-F089-672E01A5419E}|..\\DateAndString\\StringHandeling\\StringHandeling.csproj|c:\\users\\venkata.srikanth\\source\\repos\\dateandstring\\stringhandeling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{650B9651-E54A-D330-7E30-712B72CC0E9B}|Assignments_c#\\Assignment1_c#.csproj|c:\\users\\venkata.srikanth\\source\\repos\\assignments_all_c#\\assignments_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{650B9651-E54A-D330-7E30-712B72CC0E9B}|Assignments_c#\\Assignment1_c#.csproj|c:\\users\\venkata.srikanth\\downloads\\c# (dot net)\\c# assignments\\assignments_all_c#\\assignments_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{650B9651-E54A-D330-7E30-712B72CC0E9B}|Assignments_c#\\Assignment1_c#.csproj|solutionrelative:assignments_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\venkata.srikanth\\source\\repos\\DateAndString\\StringHandeling\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,33 +27,33 @@
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\venkata.srikanth\\source\\repos\\DateAndString\\DateAndString\\Program.cs",
-              "RelativeDocumentMoniker": "..\\DateAndString\\DateAndString\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\DateAndString\\DateAndString\\Program.cs",
               "ToolTip": "C:\\Users\\venkata.srikanth\\source\\repos\\DateAndString\\DateAndString\\Program.cs",
-              "RelativeToolTip": "..\\DateAndString\\DateAndString\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAWAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\DateAndString\\DateAndString\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T04:58:01.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\venkata.srikanth\\source\\repos\\DateAndString\\StringHandeling\\Program.cs",
-              "RelativeDocumentMoniker": "..\\DateAndString\\StringHandeling\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\DateAndString\\StringHandeling\\Program.cs",
               "ToolTip": "C:\\Users\\venkata.srikanth\\source\\repos\\DateAndString\\StringHandeling\\Program.cs",
-              "RelativeToolTip": "..\\DateAndString\\StringHandeling\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\DateAndString\\StringHandeling\\Program.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAkwHQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T04:55:32.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\source\\repos\\Assignments_All_C#\\Assignments_c#\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\C# (DOT NET)\\C# Assignments\\Assignments_All_C#\\Assignments_c#\\Program.cs",
               "RelativeDocumentMoniker": "Assignments_c#\\Program.cs",
-              "ToolTip": "C:\\Users\\venkata.srikanth\\source\\repos\\Assignments_All_C#\\Assignments_c#\\Program.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\C# (DOT NET)\\C# Assignments\\Assignments_All_C#\\Assignments_c#\\Program.cs",
               "RelativeToolTip": "Assignments_c#\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

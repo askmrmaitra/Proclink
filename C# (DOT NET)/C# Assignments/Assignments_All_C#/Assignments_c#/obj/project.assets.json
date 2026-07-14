@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\venkata.srikanth\\source\\repos\\Assignments_All_C#\\Assignments_c#\\Assignment1_c#.csproj",
+      "projectUniqueName": "C:\\Users\\venkata.srikanth\\Downloads\\C# (DOT NET)\\C# Assignments\\Assignments_All_C#\\Assignments_c#\\Assignment1_c#.csproj",
       "projectName": "Assignment1_c#",
-      "projectPath": "C:\\Users\\venkata.srikanth\\source\\repos\\Assignments_All_C#\\Assignments_c#\\Assignment1_c#.csproj",
+      "projectPath": "C:\\Users\\venkata.srikanth\\Downloads\\C# (DOT NET)\\C# Assignments\\Assignments_All_C#\\Assignments_c#\\Assignment1_c#.csproj",
       "packagesPath": "C:\\Users\\venkata.srikanth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\venkata.srikanth\\source\\repos\\Assignments_All_C#\\Assignments_c#\\obj\\",
+      "outputPath": "C:\\Users\\venkata.srikanth\\Downloads\\C# (DOT NET)\\C# Assignments\\Assignments_All_C#\\Assignments_c#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\ASP_DotNet_Products.csproj": {}
+    "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\ASP_DotNet_Products.csproj": {}
   },
   "projects": {
-    "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\ASP_DotNet_Products.csproj": {
+    "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\ASP_DotNet_Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\ASP_DotNet_Products.csproj",
+        "projectUniqueName": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\ASP_DotNet_Products.csproj",
         "projectName": "ASP_DotNet_Products",
-        "projectPath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\ASP_DotNet_Products.csproj",
+        "projectPath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\ASP_DotNet_Products.csproj",
         "packagesPath": "C:\\Users\\venkata.srikanth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\obj\\",
+        "outputPath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

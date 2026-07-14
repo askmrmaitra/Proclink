@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\EF\\EF_Code\\EF_Code.csproj": {}
+    "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\EF\\EF_Code\\EF_Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\EF\\EF_Code\\EF_Code.csproj": {
+    "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\EF\\EF_Code\\EF_Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\EF\\EF_Code\\EF_Code.csproj",
+        "projectUniqueName": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\EF\\EF_Code\\EF_Code.csproj",
         "projectName": "EF_Code",
-        "projectPath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\EF\\EF_Code\\EF_Code.csproj",
+        "projectPath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\EF\\EF_Code\\EF_Code.csproj",
         "packagesPath": "C:\\Users\\venkata.srikanth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_NET\\EF\\EF_Code\\obj\\",
+        "outputPath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\class\\EF\\EF_Code\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

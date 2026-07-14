@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC30BBC-2740-06DA-659C-B7C0FCDF3B9F}|ConnectionStringDemo\\ConnectionStringDemo.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\connectionstringdemo\\connectionstringdemo\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC30BBC-2740-06DA-659C-B7C0FCDF3B9F}|ConnectionStringDemo\\ConnectionStringDemo.csproj|solutionrelative:connectionstringdemo\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC30BBC-2740-06DA-659C-B7C0FCDF3B9F}|ConnectionStringDemo\\ConnectionStringDemo.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\connectionstringdemo\\connectionstringdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC30BBC-2740-06DA-659C-B7C0FCDF3B9F}|ConnectionStringDemo\\ConnectionStringDemo.csproj|solutionrelative:connectionstringdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC30BBC-2740-06DA-659C-B7C0FCDF3B9F}|ConnectionStringDemo\\ConnectionStringDemo.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\connectionstringdemo\\connectionstringdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC30BBC-2740-06DA-659C-B7C0FCDF3B9F}|ConnectionStringDemo\\ConnectionStringDemo.csproj|solutionrelative:connectionstringdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC30BBC-2740-06DA-659C-B7C0FCDF3B9F}|ConnectionStringDemo\\ConnectionStringDemo.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\connectionstringdemo\\connectionstringdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BC30BBC-2740-06DA-659C-B7C0FCDF3B9F}|ConnectionStringDemo\\ConnectionStringDemo.csproj|solutionrelative:connectionstringdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC30BBC-2740-06DA-659C-B7C0FCDF3B9F}|ConnectionStringDemo\\ConnectionStringDemo.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\connectionstringdemo\\connectionstringdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC30BBC-2740-06DA-659C-B7C0FCDF3B9F}|ConnectionStringDemo\\ConnectionStringDemo.csproj|solutionrelative:connectionstringdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC30BBC-2740-06DA-659C-B7C0FCDF3B9F}|ConnectionStringDemo\\ConnectionStringDemo.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\connectionstringdemo\\connectionstringdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC30BBC-2740-06DA-659C-B7C0FCDF3B9F}|ConnectionStringDemo\\ConnectionStringDemo.csproj|solutionrelative:connectionstringdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC30BBC-2740-06DA-659C-B7C0FCDF3B9F}|ConnectionStringDemo\\ConnectionStringDemo.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\connectionstringdemo\\connectionstringdemo\\views\\home\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC30BBC-2740-06DA-659C-B7C0FCDF3B9F}|ConnectionStringDemo\\ConnectionStringDemo.csproj|solutionrelative:connectionstringdemo\\views\\home\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\ConnectionStringDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ConnectionStringDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\ConnectionStringDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ConnectionStringDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAABRwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-12T17:47:11.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Students.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\ConnectionStringDemo\\Views\\Home\\Students.cshtml",
+              "RelativeDocumentMoniker": "ConnectionStringDemo\\Views\\Home\\Students.cshtml",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\ConnectionStringDemo\\Views\\Home\\Students.cshtml",
+              "RelativeToolTip": "ConnectionStringDemo\\Views\\Home\\Students.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-12T17:44:36.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\ConnectionStringDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ConnectionStringDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\ConnectionStringDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ConnectionStringDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T17:43:16.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\ConnectionStringDemo\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "ConnectionStringDemo\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\ConnectionStringDemo\\Models\\Models.cs",
+              "RelativeToolTip": "ConnectionStringDemo\\Models\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T17:40:21.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\ConnectionStringDemo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConnectionStringDemo\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\ConnectionStringDemo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ConnectionStringDemo\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T17:33:13.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\ConnectionStringDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ConnectionStringDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\ConnectionStringDemo\\Program.cs",
+              "RelativeToolTip": "ConnectionStringDemo\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T17:26:21.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\ConnectionStringDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "ConnectionStringDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ConnectionStringDemo\\ConnectionStringDemo\\appsettings.json",
+              "RelativeToolTip": "ConnectionStringDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-12T17:21:49.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

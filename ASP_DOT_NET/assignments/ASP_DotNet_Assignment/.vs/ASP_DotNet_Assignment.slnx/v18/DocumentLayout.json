@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ASP_DotNet_Assignment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\asp_dotnet_assignment\\asp_dotnet_products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|solutionrelative:asp_dotnet_products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\asp_dotnet_assignment\\asp_dotnet_products\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|solutionrelative:asp_dotnet_products\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\asp_dotnet_assignment\\asp_dotnet_products\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|solutionrelative:asp_dotnet_products\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\asp_dotnet_assignment\\asp_dotnet_products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|solutionrelative:asp_dotnet_products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC0BBF8D-81AA-20A0-DB0E-677FC688A888}|ASP_DotNet_Products\\ASP_DotNet_Products.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\asp_dotnet_assignment\\asp_dotnet_products\\models\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ASP_DotNet_Products\\Views\\Shared\\_Layout.cshtml",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\Program.cs",
               "RelativeDocumentMoniker": "ASP_DotNet_Products\\Program.cs",
@@ -54,11 +54,12 @@
               "RelativeToolTip": "ASP_DotNet_Products\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T09:52:09.98Z"
+              "WhenOpened": "2026-07-08T09:52:09.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "ASP_DotNet_Products\\Views\\Products\\Index.cshtml",
@@ -71,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ASP_DotNet_Assignment\\ASP_DotNet_Products\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ASP_DotNet_Products\\Controllers\\ProductsController.cs",

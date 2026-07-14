@@ -1,0 +1,6 @@
+@ExecRawQuery_HostAddress = http://localhost:5232
+
+GET {{ExecRawQuery_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

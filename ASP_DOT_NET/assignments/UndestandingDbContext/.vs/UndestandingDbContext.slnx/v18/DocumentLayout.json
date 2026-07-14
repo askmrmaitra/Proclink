@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\UndestandingDbContext\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA66DAA8-DE0C-B38E-04D3-B1FA4AFDBDC2}|UndestandingDbContext\\UndestandingDbContext.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\undestandingdbcontext\\undestandingdbcontext\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA66DAA8-DE0C-B38E-04D3-B1FA4AFDBDC2}|UndestandingDbContext\\UndestandingDbContext.csproj|solutionrelative:undestandingdbcontext\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA66DAA8-DE0C-B38E-04D3-B1FA4AFDBDC2}|UndestandingDbContext\\UndestandingDbContext.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\undestandingdbcontext\\undestandingdbcontext\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA66DAA8-DE0C-B38E-04D3-B1FA4AFDBDC2}|UndestandingDbContext\\UndestandingDbContext.csproj|solutionrelative:undestandingdbcontext\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA66DAA8-DE0C-B38E-04D3-B1FA4AFDBDC2}|UndestandingDbContext\\UndestandingDbContext.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\undestandingdbcontext\\undestandingdbcontext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA66DAA8-DE0C-B38E-04D3-B1FA4AFDBDC2}|UndestandingDbContext\\UndestandingDbContext.csproj|solutionrelative:undestandingdbcontext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA66DAA8-DE0C-B38E-04D3-B1FA4AFDBDC2}|UndestandingDbContext\\UndestandingDbContext.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\undestandingdbcontext\\undestandingdbcontext\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA66DAA8-DE0C-B38E-04D3-B1FA4AFDBDC2}|UndestandingDbContext\\UndestandingDbContext.csproj|solutionrelative:undestandingdbcontext\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA66DAA8-DE0C-B38E-04D3-B1FA4AFDBDC2}|UndestandingDbContext\\UndestandingDbContext.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\undestandingdbcontext\\undestandingdbcontext\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA66DAA8-DE0C-B38E-04D3-B1FA4AFDBDC2}|UndestandingDbContext\\UndestandingDbContext.csproj|solutionrelative:undestandingdbcontext\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA66DAA8-DE0C-B38E-04D3-B1FA4AFDBDC2}|UndestandingDbContext\\UndestandingDbContext.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\undestandingdbcontext\\undestandingdbcontext\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA66DAA8-DE0C-B38E-04D3-B1FA4AFDBDC2}|UndestandingDbContext\\UndestandingDbContext.csproj|solutionrelative:undestandingdbcontext\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\UndestandingDbContext\\UndestandingDbContext\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UndestandingDbContext\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\UndestandingDbContext\\UndestandingDbContext\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UndestandingDbContext\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-12T18:13:41.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\UndestandingDbContext\\UndestandingDbContext\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UndestandingDbContext\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\UndestandingDbContext\\UndestandingDbContext\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UndestandingDbContext\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T18:09:05.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\UndestandingDbContext\\UndestandingDbContext\\Program.cs",
+              "RelativeDocumentMoniker": "UndestandingDbContext\\Program.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\UndestandingDbContext\\UndestandingDbContext\\Program.cs",
+              "RelativeToolTip": "UndestandingDbContext\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T18:06:13.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\UndestandingDbContext\\UndestandingDbContext\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UndestandingDbContext\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\UndestandingDbContext\\UndestandingDbContext\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "UndestandingDbContext\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T18:03:23.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\UndestandingDbContext\\UndestandingDbContext\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "UndestandingDbContext\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\UndestandingDbContext\\UndestandingDbContext\\Models\\Student.cs",
+              "RelativeToolTip": "UndestandingDbContext\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T18:01:46.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\UndestandingDbContext\\UndestandingDbContext\\appsettings.json",
+              "RelativeDocumentMoniker": "UndestandingDbContext\\appsettings.json",
+              "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\UndestandingDbContext\\UndestandingDbContext\\appsettings.json",
+              "RelativeToolTip": "UndestandingDbContext\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-12T18:00:36.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

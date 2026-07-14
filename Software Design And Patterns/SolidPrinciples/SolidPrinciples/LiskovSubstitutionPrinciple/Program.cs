@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LiskovSubstitutionPrinciple
 {
@@ -10,121 +6,104 @@ namespace LiskovSubstitutionPrinciple
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("===== GOOD DESIGN =====");
+
+            ILecturer math = new MathLecturer();
+            ILecturer english = new EnglishLecturer();
+
+            math.Teach();
+            english.Teach();
+
+            Console.WriteLine();
+
+            Console.WriteLine("===== BAD DESIGN =====");
+
+            Lecturer lecturer = new MathOnlyLecturer();
+
+            lecturer.TeachMath();
+
+            try
+            {
+                lecturer.TeachEnglish();   // Runtime Error
+            }
+            catch (NotSupportedException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+            Console.ReadKey();
         }
     }
 
+    #region Good Design
 
-    #region Good Design 
-
-    public interface ITurnable
+    public interface ILecturer
     {
-        void TurnRight();
-        void TurnLeft();
-    }
-    public interface IMovable
-    {
-        void GoForward();
-        void GoBackward();
+        void Teach();
     }
 
-    public class RoadVehicle : IMovable, ITurnable
+    public class MathLecturer : ILecturer
     {
-        public float speed = 50f;
-        public float turnSpeed = 2f;
-
-        public virtual void GoForward()
+        public void Teach()
         {
-
+            Console.WriteLine("Math Lecturer teaches Mathematics.");
         }
-
-        public virtual void GoBackward()
-        {
-
-        }
-
-        public virtual void TurnLeft()
-        {
-
-        }
-
-        public virtual void TurnRight()
-        {
-
-        }
-
     }
-    public class RailVehicle : IMovable
+
+    public class EnglishLecturer : ILecturer
     {
-        public float speed = 30f;
-
-        public virtual void GoForward()
+        public void Teach()
         {
-
-        }
-
-        public virtual void GoBackward()
-        {
-
+            Console.WriteLine("English Lecturer teaches English.");
         }
     }
-    public class Car : RoadVehicle
+
+    public class ScienceLecturer : ILecturer
     {
-        //...
+        public void Teach()
+        {
+            Console.WriteLine("Science Lecturer teaches Science.");
+        }
     }
 
-    public class Truck : RoadVehicle
-    {
-        //...
-    }
-
-    public class Train : RailVehicle
-    {
-        //...
-    }
-
-    public class Tram : RailVehicle
-    {
-        //...
-    }
     #endregion
-
-
-    //// Bad Design
 
     #region Bad Design
 
+    public class Lecturer
+    {
+        public virtual void TeachMath()
+        {
+            Console.WriteLine("Teaching Mathematics");
+        }
 
-    //public class Vehicle
-    //{
-    //    public float speed = 10f;
+        public virtual void TeachEnglish()
+        {
+            Console.WriteLine("Teaching English");
+        }
 
-    //    public void GoForward()
-    //    {
+        public virtual void TeachScience()
+        {
+            Console.WriteLine("Teaching Science");
+        }
+    }
 
-    //    }
-    //    public void Reverse()
-    //    {
+    public class MathOnlyLecturer : Lecturer
+    {
+        public override void TeachMath()
+        {
+            Console.WriteLine("Math Lecturer teaches Mathematics.");
+        }
 
-    //    }
-    //    public void TurnRight()
-    //    {
+        public override void TeachEnglish()
+        {
+            throw new NotSupportedException("Math Lecturer cannot teach English.");
+        }
 
-    //    }
-    //    public void TurnLeft()
-    //    {
-
-    //    }
-    //}
-
-    //public class Car : Vehicle
-    //{
-
-    //}
-
-    //public class Train : Vehicle
-    //{
-    //    // No need for TurnLeft and TurnRight on the train
-    //} 
+        public override void TeachScience()
+        {
+            throw new NotSupportedException("Math Lecturer cannot teach Science.");
+        }
+    }
     #endregion
-
 }
