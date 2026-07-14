@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ExecRawQuery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3470B171-2EF3-4E0D-9D11-AA2594BD6465}|ExecRawQuery\\ExecRawQuery.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\execrawquery\\execrawquery\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3470B171-2EF3-4E0D-9D11-AA2594BD6465}|ExecRawQuery\\ExecRawQuery.csproj|solutionrelative:execrawquery\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4E1DC47-33D4-ACD9-659F-7D30B7B7F826}|ExecRawQuery\\ExecRawQuery.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\execrawquery\\execrawquery\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E1DC47-33D4-ACD9-659F-7D30B7B7F826}|ExecRawQuery\\ExecRawQuery.csproj|solutionrelative:execrawquery\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3470B171-2EF3-4E0D-9D11-AA2594BD6465}|ExecRawQuery\\ExecRawQuery.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\execrawquery\\execrawquery\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3470B171-2EF3-4E0D-9D11-AA2594BD6465}|ExecRawQuery\\ExecRawQuery.csproj|solutionrelative:execrawquery\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4E1DC47-33D4-ACD9-659F-7D30B7B7F826}|ExecRawQuery\\ExecRawQuery.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\execrawquery\\execrawquery\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E1DC47-33D4-ACD9-659F-7D30B7B7F826}|ExecRawQuery\\ExecRawQuery.csproj|solutionrelative:execrawquery\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3470B171-2EF3-4E0D-9D11-AA2594BD6465}|ExecRawQuery\\ExecRawQuery.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\execrawquery\\execrawquery\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3470B171-2EF3-4E0D-9D11-AA2594BD6465}|ExecRawQuery\\ExecRawQuery.csproj|solutionrelative:execrawquery\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4E1DC47-33D4-ACD9-659F-7D30B7B7F826}|ExecRawQuery\\ExecRawQuery.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\execrawquery\\execrawquery\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E1DC47-33D4-ACD9-659F-7D30B7B7F826}|ExecRawQuery\\ExecRawQuery.csproj|solutionrelative:execrawquery\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3470B171-2EF3-4E0D-9D11-AA2594BD6465}|ExecRawQuery\\ExecRawQuery.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\execrawquery\\execrawquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3470B171-2EF3-4E0D-9D11-AA2594BD6465}|ExecRawQuery\\ExecRawQuery.csproj|solutionrelative:execrawquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4E1DC47-33D4-ACD9-659F-7D30B7B7F826}|ExecRawQuery\\ExecRawQuery.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\execrawquery\\execrawquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E1DC47-33D4-ACD9-659F-7D30B7B7F826}|ExecRawQuery\\ExecRawQuery.csproj|solutionrelative:execrawquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3470B171-2EF3-4E0D-9D11-AA2594BD6465}|ExecRawQuery\\ExecRawQuery.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\execrawquery\\execrawquery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3470B171-2EF3-4E0D-9D11-AA2594BD6465}|ExecRawQuery\\ExecRawQuery.csproj|solutionrelative:execrawquery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A4E1DC47-33D4-ACD9-659F-7D30B7B7F826}|ExecRawQuery\\ExecRawQuery.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\execrawquery\\execrawquery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4E1DC47-33D4-ACD9-659F-7D30B7B7F826}|ExecRawQuery\\ExecRawQuery.csproj|solutionrelative:execrawquery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3470B171-2EF3-4E0D-9D11-AA2594BD6465}|ExecRawQuery\\ExecRawQuery.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\execrawquery\\execrawquery\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3470B171-2EF3-4E0D-9D11-AA2594BD6465}|ExecRawQuery\\ExecRawQuery.csproj|solutionrelative:execrawquery\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A4E1DC47-33D4-ACD9-659F-7D30B7B7F826}|ExecRawQuery\\ExecRawQuery.csproj|c:\\users\\venkata.srikanth\\downloads\\asp_dot_net\\assignments\\execrawquery\\execrawquery\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4E1DC47-33D4-ACD9-659F-7D30B7B7F826}|ExecRawQuery\\ExecRawQuery.csproj|solutionrelative:execrawquery\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "ExecRawQuery\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ExecRawQuery\\ExecRawQuery\\Controllers\\StudentController.cs",
               "RelativeToolTip": "ExecRawQuery\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAswDQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T06:23:04.083Z",
               "EditorCaption": ""
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "ExecRawQuery\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\venkata.srikanth\\Downloads\\ASP_DOT_NET\\assignments\\ExecRawQuery\\ExecRawQuery\\Data\\AppDbContext.cs",
               "RelativeToolTip": "ExecRawQuery\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T06:20:04.881Z",
               "EditorCaption": ""
@@ -85,8 +85,7 @@
               "RelativeToolTip": "ExecRawQuery\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T06:18:04.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T06:18:04.291Z"
             },
             {
               "$type": "Document",
@@ -98,8 +97,7 @@
               "RelativeToolTip": "ExecRawQuery\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-14T06:17:48.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T06:17:48.779Z"
             },
             {
               "$type": "Document",
@@ -111,8 +109,7 @@
               "RelativeToolTip": "ExecRawQuery\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAYwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-14T06:17:32.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T06:17:32.964Z"
             }
           ]
         }
